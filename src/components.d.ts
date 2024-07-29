@@ -13,5 +13,6 @@ declare module 'vue' {
     MenuAction: typeof import('./components/MenuAction.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    ZoomButton: typeof import('./components/ZoomButton.vue')['default']
   }
 }

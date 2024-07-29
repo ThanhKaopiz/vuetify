@@ -1,8 +1,7 @@
 <template>
   <div>
-    <div class="main-content">
-      hihi
-    </div>
+    <ZoomButton />
+    <div class="main-content" />
     <MenuAction />
   </div>
 </template>
