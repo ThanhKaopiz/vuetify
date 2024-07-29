@@ -68,8 +68,8 @@ img {
   width: 0;
   height: 400px;
   opacity: 0;
-  transform: scale(0) translate(0, 0);
-  //animation: disappear 3s forwards;
+  //transform: scale(0) translate(0, 0);
+  animation: disappear 3s forwards;
 }
 
 .main{
