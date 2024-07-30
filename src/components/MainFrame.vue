@@ -1,7 +1,9 @@
 <template>
   <div class="main-content">
     <ZoomButton class="zoom-button" />
-    <div class="inner-content" />
+    <div class="inner-content" >
+      <video src="https://www.w3schools.com/tags/movie.mp4"></video>
+    </div>
   </div>
 </template>
 <script lang="ts" setup></script>
@@ -26,5 +28,12 @@
 .inner-content{
   background: white;
   height: 100%;
+  transition: height 0.3s ease 0s;
+
+  video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
 }
 </style>
