@@ -1,5 +1,5 @@
 <template>
-  <div @click="handClick">
+  <div>
     <img alt="" src="@/assets/btn.png">
   </div>
 </template>

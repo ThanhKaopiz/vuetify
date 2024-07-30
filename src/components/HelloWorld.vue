@@ -3,16 +3,26 @@
     <div class="container fix-w">
       <div class="inner-container">
         <div class="main-box" :class="{'hidden-main':!showMain}">
-          <MainFrame />
+          <MainFrame/>
         </div>
-        <div v-show="!showMain" class="bottom-bar">
+        <div class="bottom-bar" :class="{'expand':showMain}">
           <div class="box" @click="handleShowMainFrame"><img alt="" src="@/assets/avatar.png"></div>
-          <div class="box" :class="{'hidden-box':isHidden}"><img alt="" src="@/assets/chat.png"></div>
-          <div class="box" :class="{'hidden-box':isHidden}"><img alt="" src="@/assets/mic.png"></div>
-          <div class="box" :class="{'hidden-box':isHidden}"><img alt="" src="@/assets/leave.png"></div>
-          <div class="box" @click="handleToggleExpand"><img alt="" src="@/assets/btn.png"></div>
+          <div class="box action" :class="{'hidden-box':isHidden}">
+            <div class="item" :class="{'hidden-text':isHidden}">
+              <Chat/>
+            </div>
+            <div class="item" :class="{'hidden-text':isHidden}">
+              <Mic/>
+            </div>
+            <div class="item" :class="{'hidden-text':isHidden}">
+              <Leave/>
+            </div>
+          </div>
+          <div class="box" @click="handleToggleExpand" v-show="!showMain">
+            <Minus v-show="!isHidden"/>
+            <Plus v-show="isHidden"/>
+          </div>
         </div>
-        <MenuAction v-show="showMain" />
       </div>
     </div>
 
@@ -21,18 +31,18 @@
 
 <script setup lang="ts">
 
-  const isHidden = ref(false)
-  const showMain = ref(false)
+const isHidden = ref(false)
+const showMain = ref(false)
 
-  provide('showMain', showMain)
+provide('showMain', showMain)
 
-  const handleToggleExpand = () => {
-    isHidden.value = !isHidden.value
-  }
+const handleToggleExpand = () => {
+  isHidden.value = !isHidden.value
+}
 
-  const handleShowMainFrame = () => {
-    showMain.value = !showMain.value
-  }
+const handleShowMainFrame = () => {
+  showMain.value = !showMain.value
+}
 </script>
 <style lang="scss" scoped>
 .v-container.fill-height {
@@ -71,6 +81,7 @@
 }
 
 .bottom-bar {
+  height: 50px;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -81,16 +92,33 @@
 
   .box {
     width: 50px;
-    height: 50px;
+    height: 100%;
     cursor: pointer;
     background-color: white;
     color: white;
     transition: width 0.3s ease;
 
-    &.hidden-box {
-      width: 0;
+    &.action {
+      display: flex;
+      //flex: 0 0 calc(50px * 3);
+      width: 150px;
+      height: 100%;
+
+      &.hidden-box {
+        width: 0;
+      }
+
+      .hidden-text{
+        display: none;
+      }
     }
   }
+
+  &.expand{
+    width: 100%;
+    justify-content: space-between;
+  }
+
 }
 
 img {

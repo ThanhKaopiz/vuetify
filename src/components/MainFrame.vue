@@ -26,6 +26,5 @@
 .inner-content{
   background: white;
   height: 100%;
-  height: 100%;
 }
 </style>
