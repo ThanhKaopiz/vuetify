@@ -1,21 +1,10 @@
 <template>
-  <div>
-    <Minus class="zoom-button" @click="handClick" />
-    <div class="main-content" />
-    <MenuAction />
+  <div class="main-content">
+    <ZoomButton class="zoom-button" />
+    <div class="inner-content" />
   </div>
 </template>
-<script lang="ts" setup>
-  import Minus from '@/components/Button/Minus.vue'
-
-  const showMain = ref(inject('showMain'))
-
-  const handClick = () => {
-    if (showMain.value) {
-      showMain.value = !showMain.value
-    }
-  }
-</script>
+<script lang="ts" setup></script>
 <style lang="scss" scoped>
 
 .zoom-button{
@@ -25,8 +14,17 @@
   cursor: pointer;
 }
 .main-content{
-  width: 300px;
-  height: 400px;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: height 0.3s ease 0s;
+}
+
+.inner-content{
   background: white;
+  height: 100%;
 }
 </style>
