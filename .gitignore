@@ -9,4 +9,3 @@
 *.sw?
 
 src/components.d.ts
-node_modules
