@@ -25,7 +25,7 @@
   cursor: pointer;
 }
 .main-content{
-  width: 100%;
+  width: 300px;
   height: 400px;
   background: white;
 }
