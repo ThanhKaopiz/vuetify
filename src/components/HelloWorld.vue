@@ -3,13 +3,21 @@
     <div class="container fix-w">
       <div class="inner-container">
         <div class="main-box" :class="{'hidden-main':!showMain}">
-          <MainFrame/>
+          <MainFrame @handle-click="handleCollapse" :stream-id="streamId" :show-chat="showChat"/>
         </div>
         <div class="bottom-bar" :class="{'expand':showMain}">
-          <div class="box" @click="handleShowMainFrame"><img alt="" src="@/assets/avatar.png"></div>
-          <div class="box action" :class="{'hidden-box':isHidden}">
-            <div class="item" :class="{'hidden-text':isHidden}">
+          <div v-show="streamId !==1" class="box" @click="openVideo(1)"><img alt="" src="@/assets/avatar.png" ></div>
+          <div v-show="streamId !==2" class="box" @click="openVideo(2)"><img alt="" src="@/assets/avt.jpeg" ></div>
+
+          <div @click="handleChat" class="item" :class="{'hidden-text':isHidden}" v-show="showMain && !showChat">
+            <Chat/>
+          </div>
+          <div class="box action" :class="{'hidden-box':isHidden, 'box-main':showMain}" >
+            <div @click="handleChat" class="item" :class="{'hidden-text':isHidden}" v-show="!showMain && !showChat">
               <Chat/>
+            </div>
+            <div class="item" :class="{'hidden-text':isHidden}">
+              <Camera/>
             </div>
             <div class="item" :class="{'hidden-text':isHidden}">
               <Mic/>
@@ -33,16 +41,32 @@
 
 const isHidden = ref(false)
 const showMain = ref(false)
+const streamId = ref(0);
+const showChat = ref(false)
 
-provide('showMain', showMain)
+
+const openVideo = (number:number)=>{
+  streamId.value = number
+  showMain.value = true
+  showChat.value = false
+
+}
+const handleCollapse = ()=>{
+  showMain.value =false
+  streamId.value = 0
+  showChat.value =false
+}
 
 const handleToggleExpand = () => {
   isHidden.value = !isHidden.value
 }
 
-const handleShowMainFrame = () => {
-  showMain.value = !showMain.value
+const handleChat = ()=>{
+  showMain.value = true
+  showChat.value = true
+  streamId.value = 0
 }
+
 </script>
 <style lang="scss" scoped>
 .v-container.fill-height {
@@ -68,7 +92,7 @@ const handleShowMainFrame = () => {
 .main-box {
   height: 100%;
   width: 100%;
-  transition: height 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
   position: absolute;
   bottom: 0; //+50px height box
   left: 0;
@@ -100,9 +124,11 @@ const handleShowMainFrame = () => {
 
     &.action {
       display: flex;
+      flex: 1 1 50px;
       //flex: 0 0 calc(50px * 3);
-      width: 150px;
+      min-width: 100px;
       height: 100%;
+      transition: all 0.3s ease;
 
       &.hidden-box {
         width: 0;
@@ -111,6 +137,10 @@ const handleShowMainFrame = () => {
       .hidden-text{
         display: none;
       }
+    }
+
+    &.box-main{
+      justify-content: flex-end;
     }
   }
 
