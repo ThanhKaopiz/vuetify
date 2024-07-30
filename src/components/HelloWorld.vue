@@ -5,11 +5,13 @@
         <MainFrame />
       </div>
       <div v-show="!showMain" class="bottom-bar">
-        <div class="box" @click="handleShowMainFrame"><img alt="" src="@/assets/avatar.png"></div>
-        <div class="box" :class="isHidden?'hidden':''"><img alt="" src="@/assets/chat.png"></div>
-        <div class="box" :class="isHidden?'hidden':''"><img alt="" src="@/assets/mic.png"></div>
-        <div class="box" :class="isHidden?'hidden':''"><img alt="" src="@/assets/leave.png"></div>
-        <div class="box" @click="handleToggleExpand"><img alt="" src="@/assets/btn.png"></div>
+        <div class="box" @click="handleShowMainFrame"><Avatar /></div>
+        <div class="box" :class="isHidden?'hidden':''"><Chat /></div>
+        <div class="box" :class="isHidden?'hidden':''"><Mic /></div>
+        <div class="box" :class="isHidden?'hidden':''"><Camera /></div>
+        <div class="box" :class="isHidden?'hidden':''"><Leave /></div>
+        <div v-show="!isHidden" class="box" @click="handleToggleExpand"><Minus /></div>
+        <div v-show="isHidden" class="box" @click="handleToggleExpand"><Plus /></div>
       </div>
     </div>
 
@@ -18,6 +20,12 @@
 
 <script setup lang="ts">
   import MainFrame from '@/components/MainFrame.vue'
+  import Avatar from '@/components/Avatar.vue'
+  import Chat from '@/components/Button/Chat.vue'
+  import Mic from '@/components/Button/Mic.vue'
+  import Leave from '@/components/Button/Leave.vue'
+  import Minus from '@/components/Button/Minus.vue'
+  import Plus from '@/components/Button/Plus.vue'
 
   const isHidden = ref(false)
   const showMain = ref(false)
@@ -46,11 +54,6 @@
   align-items: center;
 }
 
-img {
-  width: 100%;
-  height: 100%;
-}
-
 .box {
   width: 50px;
   height: 50px;
@@ -73,7 +76,7 @@ img {
 }
 
 .main{
-  width: 250px;
+  //width: 250px;
   height: 100%;
   opacity: 1;
   animation: appear 0.5s forwards;

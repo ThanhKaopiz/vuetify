@@ -1,11 +1,21 @@
 <template>
   <div>
-    <ZoomButton class="zoom-button" />
+    <Minus class="zoom-button" @click="handClick" />
     <div class="main-content" />
     <MenuAction />
   </div>
 </template>
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+  import Minus from '@/components/Button/Minus.vue'
+
+  const showMain = ref(inject('showMain'))
+
+  const handClick = () => {
+    if (showMain.value) {
+      showMain.value = !showMain.value
+    }
+  }
+</script>
 <style lang="scss" scoped>
 
 .zoom-button{

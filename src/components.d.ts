@@ -8,9 +8,17 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     AppFooter: typeof import('./components/AppFooter.vue')['default']
+    Avatar: typeof import('./components/Avatar.vue')['default']
+    Camera: typeof import('./components/Button/Camera.vue')['default']
+    Chat: typeof import('./components/Button/Chat.vue')['default']
+    Common: typeof import('./components/Button/Common.vue')['default']
     HelloWorld: typeof import('./components/HelloWorld.vue')['default']
+    Leave: typeof import('./components/Button/Leave.vue')['default']
     MainFrame: typeof import('./components/MainFrame.vue')['default']
     MenuAction: typeof import('./components/MenuAction.vue')['default']
+    Mic: typeof import('./components/Button/Mic.vue')['default']
+    Minus: typeof import('./components/Icon/Minus.vue')['default']
+    Plus: typeof import('./components/Icon/Plus.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     ZoomButton: typeof import('./components/ZoomButton.vue')['default']

@@ -5,9 +5,4 @@
 </template>
 <script lang="ts" setup>
 
-  const showMain = inject('showMain')
-
-  const handClick = () => {
-    showMain.value = !showMain.value
-  }
 </script>

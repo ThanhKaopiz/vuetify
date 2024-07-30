@@ -1,15 +1,15 @@
 <template>
   <div class="d-flex justify-space-between">
     <div class="video">
-      <img alt="" src="@/assets/avatar.png">
+      <Avatar />
     </div>
 
     <div class="d-flex">
       <div class="mic">
-        <img alt="" src="@/assets/mic.png">
+        <Mic />
       </div>
       <div class="leave">
-        <img alt="" src="@/assets/leave.png">
+        <Leave />
       </div>
     </div>
   </div>
