@@ -6,21 +6,21 @@
           <MainFrame @handle-click="handleCollapse" :stream-id="streamId" :show-chat="showChat"/>
         </div>
         <div class="bottom-bar" :class="{'expand':showMain}">
-          <div v-show="streamId !==1" class="box" @click="openVideo(1)"><img alt="" src="@/assets/avatar.png" ></div>
-          <div v-show="streamId !==2" class="box" @click="openVideo(2)"><img alt="" src="@/assets/avt.jpeg" ></div>
+          <div v-show="streamId !==1" class="box" @click="openVideo(1)"><img alt="" src="@/assets/avatar.png"></div>
+          <div v-show="streamId !==2" class="box" @click="openVideo(2)"><img alt="" src="@/assets/avt.jpeg"></div>
 
           <div @click="handleChat" class="item" :class="{'hidden-text':isHidden}" v-show="showMain && !showChat">
             <Chat/>
           </div>
-          <div class="box action" :class="{'hidden-box':isHidden, 'box-main':showMain}" >
+          <div class="box action" :class="{'hidden-box':isHidden, 'box-main':showMain}">
             <div @click="handleChat" class="item" :class="{'hidden-text':isHidden}" v-show="!showMain && !showChat">
               <Chat/>
             </div>
             <div class="item" :class="{'hidden-text':isHidden}">
-              <Camera/>
+              <Camera :status="cameraStatus" @click="toggleCamera"/>
             </div>
             <div class="item" :class="{'hidden-text':isHidden}">
-              <Mic/>
+              <Mic :status="micStatus" @click="toggleMic"/>
             </div>
             <div class="item" :class="{'hidden-text':isHidden}">
               <Leave/>
@@ -44,27 +44,44 @@ const showMain = ref(false)
 const streamId = ref(0);
 const showChat = ref(false)
 
+const cameraStatus = ref(true)
+const micStatus = ref(true)
 
-const openVideo = (number:number)=>{
+const openVideo = (number: number) => {
   streamId.value = number
   showMain.value = true
   showChat.value = false
+  isHidden.value = false
+
 
 }
-const handleCollapse = ()=>{
-  showMain.value =false
+const handleCollapse = () => {
+  showMain.value = false
   streamId.value = 0
-  showChat.value =false
+  showChat.value = false
+  isHidden.value = false
 }
+
+const toggleMic = () => {
+  micStatus.value = !micStatus.value
+}
+
+const toggleCamera = () => {
+  cameraStatus.value = !cameraStatus.value
+}
+const widthBoxAction = computed(() => {
+  return document.getElementsByClassName('item')?.length === 2 ? '100px' : '150px';
+})
 
 const handleToggleExpand = () => {
   isHidden.value = !isHidden.value
 }
 
-const handleChat = ()=>{
+const handleChat = () => {
   showMain.value = true
   showChat.value = true
   streamId.value = 0
+  isHidden.value = false
 }
 
 </script>
@@ -76,9 +93,13 @@ const handleChat = ()=>{
 }
 
 .container {
-  position: relative;
+  position: absolute;
+  bottom: 200px;
+  right: 200px;
+  //position: relative;
   height: 600px;
   width: 350px;
+  overflow: hidden;
 }
 
 .inner-container {
@@ -101,6 +122,7 @@ const handleChat = ()=>{
     visibility: hidden;
     opacity: 0;
     height: 0;
+    width: 0;
   }
 }
 
@@ -112,11 +134,15 @@ const handleChat = ()=>{
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  transition: width 0.3s ease;
+  //transition: width 0.3s ease;
+  background-color: #F2F4F6;
+  transition: all 0.3s ease-in-out;
+
 
   .box {
     width: 50px;
-    height: 100%;
+    height: 50px;
+
     cursor: pointer;
     background-color: white;
     color: white;
@@ -124,29 +150,37 @@ const handleChat = ()=>{
 
     &.action {
       display: flex;
+      align-items: center;
       flex: 1 1 50px;
       //flex: 0 0 calc(50px * 3);
-      min-width: 100px;
+      min-width: v-bind(widthBoxAction);
       height: 100%;
-      transition: all 0.3s ease;
+      //transition: all 0.01s ease-in-out;
+      background-color: #F2F4F6;
+
 
       &.hidden-box {
         width: 0;
+        min-width: 0;
+        flex-basis: 0;
       }
 
-      .hidden-text{
+      .hidden-text {
         display: none;
       }
     }
 
-    &.box-main{
+    &.box-main {
       justify-content: flex-end;
     }
   }
 
-  &.expand{
+  &.expand {
     width: 100%;
+    height: 60px;
+    padding: 10px;
     justify-content: space-between;
+    //transition: all 1s ease-in-out;
   }
 
 }

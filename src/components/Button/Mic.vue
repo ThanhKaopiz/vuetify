@@ -1,9 +1,11 @@
 <template>
-
-  <Common color="#2BADD9" :icon="Mic" title="マイク" />
-
+  <Common :icon="status?Mic:MuteMic" title="マイク"/>
 </template>
 <script setup lang="ts">
-  import Mic from '@/components/Icon/Mic.vue'
-  import Common from '@/components/Button/Common.vue'
+import Mic from '@/components/Icon/Mic.vue'
+import MuteMic from "@/components/Icon/MuteMic.vue";
+
+const props = defineProps<{
+  status: boolean
+}>()
 </script>

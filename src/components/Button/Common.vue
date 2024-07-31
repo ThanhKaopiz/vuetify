@@ -1,35 +1,34 @@
 <template>
   <div class="button-common">
     <v-btn
-      base-color="red"
-      class="button"
-      :color="color"
-      :icon="icon"
-      :variant="variant"
-    />
-    <div class="title">{{ title }}</div>
+        :prepend-icon="icon"
+        stacked
+    >
+      {{ title }}
+    </v-btn>
   </div>
 </template>
 <script setup lang="ts">
 
-  export interface Props {
-    icon: String,
-    color: String,
-    title: String,
-    variant: String,
-  }
+export interface Props {
+  icon: string,
+  color: string,
+  title: string,
+  variant: string,
+  backgroundColor?: string
+}
 
-  const props = withDefaults(defineProps<Props>(), {
-    icon: '',
-    color: '#D9414E',
-    variant: 'outlined',
-    title: '',
-  })
+const props = withDefaults(defineProps<Props>(), {
+  icon: '',
+  variant: 'outlined',
+  title: '',
+  backgroundColor: '#F2F4F6'
+})
 
 </script>
 
 <style lang="scss" scoped>
-.button-common{
+.button-common {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -38,22 +37,38 @@
   height: 50px;
   gap: 2px;
 
-  background-color: #F2F4F6;
+  background-color: v-bind(backgroundColor);
 
-  .button{
-    height: 24.5px;
-    width: 24.5px;
-    background-color: #FFFFFF;
+  :deep(.v-btn__content) {
+    white-space: nowrap;
   }
 
-  .title{
-    color:black;
+
+  .v-btn--size-default {
+    min-width: 50px;
+    height: 50px;
+  }
+
+  .v-btn {
+    border-radius: 0;
+    height: 50px;
+    width: 50px;
+    background-color: v-bind(backgroundColor);
+    //border: 0;
+    box-shadow: none;
+  }
+
+  :deep(.v-btn__content) {
+    font-size: 10px;
+    color: black;
+  }
+
+  .title {
+    color: black;
     font-size: 10px;
     line-height: 13px;
   }
 }
-.v-btn{
 
-}
 
 </style>

@@ -1,7 +1,11 @@
 <template>
-  <Common color="#2BADD9" :icon="Camera" title="カメラ" />
+  <Common :icon="status?Camera:MuteCamera" title="カメラ"/>
 </template>
 <script setup lang="ts">
-  import Camera from '@/components/Icon/Camera.vue'
-  import Common from '@/components/Button/Common.vue'
+import Camera from '@/components/Icon/Camera.vue'
+import MuteCamera from "@/components/Icon/MuteCamera.vue";
+
+const props = defineProps<{
+  status: boolean
+}>()
 </script>
