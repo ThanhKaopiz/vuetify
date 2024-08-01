@@ -18,17 +18,17 @@
     </v-virtual-scroll>
 
     <div>
-      <v-textarea
+      <v-text-field
           v-model="message"
-          rows="1"
           :append-inner-icon="Fly"
           density="compact"
           label="Search templates"
           variant="solo"
           hide-details
           single-line
+          @keyup.enter="onClick"
           @click:append-inner="onClick"
-      ></v-textarea>
+      ></v-text-field>
     </div>
   </div>
 </template>
@@ -64,6 +64,22 @@ const chatMessage = ref([
   {
     id: 1,
     message: 'hihihihihihihihihihihihihihi'
+  },
+  {
+    id: 1,
+    message: 'hihihihihihihihihihihihihihi'
+  },
+  {
+    id: 2,
+    message: 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb'
+  },
+  {
+    id: 1,
+    message: 'hihihihihihihihihihihihihihi'
+  },
+  {
+    id: 2,
+    message: 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb'
   },
   {
     id: 1,
