@@ -1,0 +1,1127 @@
+index.d6b3334a.js:19391 The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu
+setup @ index.d6b3334a.js:19391
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+[Deprecation] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (<URL>)
+logs.ap-northeast-1.amazonaws.com/:1 
+        
+        
+       Failed to load resource: the server responded with a status of 400 (Bad Request)
+8636a681-983e-4a74-9a16-3e5e3b6a4efa:4 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+printChar @ 8636a681-983e-4a74-9a16-3e5e3b6a4efa:4
+8636a681-983e-4a74-9a16-3e5e3b6a4efa:4 INFO: adding 0 filters
+8636a681-983e-4a74-9a16-3e5e3b6a4efa:4 INFO: model successfully loaded
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+39cf62fb-d97d-48aa-86ac-bfe88519a4b0:4 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+printChar @ 39cf62fb-d97d-48aa-86ac-bfe88519a4b0:4
+39cf62fb-d97d-48aa-86ac-bfe88519a4b0:4 INFO: adding 0 filters
+39cf62fb-d97d-48aa-86ac-bfe88519a4b0:4 INFO: model successfully loaded
+28a1e815-c9c2-4c44-9406-8a3c2472f74e:4 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+printChar @ 28a1e815-c9c2-4c44-9406-8a3c2472f74e:4
+28a1e815-c9c2-4c44-9406-8a3c2472f74e:4 INFO: adding 0 filters
+28a1e815-c9c2-4c44-9406-8a3c2472f74e:4 INFO: model successfully loaded
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.439Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.439Z debug [RemoteVideoTrackPublication #17: MT37fca4e3b048b714cac5b34ac69019e7] MT37fca4e3b048b714cac5b34ac69019e7: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.441Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.441Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.440Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.441Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.441Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.461Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.461Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.461Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.461Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.473Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.473Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.497Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.498Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.498Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.498Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.506Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.506Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.520Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.520Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.524Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.540Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.540Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.551Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.551Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.551Z debug [RemoteVideoTrackPublication #4: MTaebae30fa0a4d474afd449446ec364c6] MTaebae30fa0a4d474afd449446ec364c6: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.556Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.556Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.569Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.570Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.570Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.587Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.587Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:48.874Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.456Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.457Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.456Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.456Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.475Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.475Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.475Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.475Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.488Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.523Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.523Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.523Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.523Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.540Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.540Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.540Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.540Z debug [RemoteVideoTrackPublication #4: MTaebae30fa0a4d474afd449446ec364c6] MTaebae30fa0a4d474afd449446ec364c6: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.554Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.624Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.624Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.624Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.638Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.685Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.686Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.706Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.706Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.706Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:49.895Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.140Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.140Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.140Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.140Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.140Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.140Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.153Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.153Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.166Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.166Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.166Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.173Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.173Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.173Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] intersectionObserver detected: Off => On
+ [Twilio Logger] 2024-08-02T02:27:50.173Z debug [MediaSignaling #2:render_hints] Outgoing: 
+ [Twilio Logger] 2024-08-02T02:27:50.188Z debug [MediaSignaling #2:render_hints] Incoming: 
+ [Twilio Logger] 2024-08-02T02:27:50.188Z debug [MediaSignaling #2:render_hints] Outgoing: 
+ [Twilio Logger] 2024-08-02T02:27:50.188Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.188Z debug [RemoteVideoTrackPublication #17: MT37fca4e3b048b714cac5b34ac69019e7] MT37fca4e3b048b714cac5b34ac69019e7: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.191Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.205Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.205Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.219Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.219Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.219Z debug [RemoteVideoTrackPublication #4: MTaebae30fa0a4d474afd449446ec364c6] MTaebae30fa0a4d474afd449446ec364c6: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.819Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] Dimensions changed:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.881Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:50.917Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:51.938Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:52.157Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:52.157Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:52.265Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:52.265Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:52.603Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:52.881Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] Dimensions changed:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:52.949Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:53.590Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] Dimensions changed:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:53.969Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:54.980Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:54.987Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:56.000Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:57.033Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:57.404Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:58.049Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:58.587Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:59.068Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:27:59.081Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:00.085Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:01.114Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:02.133Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:02.217Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:02.234Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:02.234Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:02.331Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:02.331Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:03.170Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:03.181Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:04.182Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:05.203Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:06.219Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:28:06.690Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+ [Twilio Logger] 2024-08-02T02:28:06.690Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+ [Twilio Logger] 2024-08-02T02:28:06.690Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] intersectionObserver detected: Off => On
+ [Twilio Logger] 2024-08-02T02:28:06.690Z debug [MediaSignaling #2:render_hints] Outgoing: 
+ [Twilio Logger] 2024-08-02T02:28:06.703Z debug [MediaSignaling #2:render_hints] Incoming: 
+ [Twilio Logger] 2024-08-02T02:28:06.703Z debug [MediaSignaling #2:render_hints] Outgoing: 
+ [Twilio Logger] 2024-08-02T02:28:06.704Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+ [Twilio Logger] 2024-08-02T02:28:06.704Z debug [RemoteVideoTrackPublication #4: MTaebae30fa0a4d474afd449446ec364c6] MTaebae30fa0a4d474afd449446ec364c6: OFF => ON
+ [Twilio Logger] 2024-08-02T02:28:06.720Z debug [MediaSignaling #2:render_hints] Incoming: 
+ [Twilio Logger] 2024-08-02T02:28:07.017Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:28:07.180Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:28:07.234Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:28:07.540Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+ [Twilio Logger] 2024-08-02T02:28:07.540Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+ [Twilio Logger] 2024-08-02T02:28:07.540Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: Off => On
+ [Twilio Logger] 2024-08-02T02:28:07.540Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.554Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.554Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.554Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.554Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.557Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.557Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.577Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.577Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.597Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.598Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.610Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.611Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.611Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.625Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.626Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.626Z debug [RemoteVideoTrackPublication #17: MT37fca4e3b048b714cac5b34ac69019e7] MT37fca4e3b048b714cac5b34ac69019e7: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.628Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.628Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.641Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.641Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:07.641Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.248Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.589Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.589Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.673Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.673Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.673Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.673Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.688Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.688Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.688Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.688Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:08.702Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:09.275Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:09.390Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:09.390Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:09.390Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:09.401Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:09.440Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:09.440Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:09.451Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:09.452Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:09.452Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:10.316Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:11.278Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:11.341Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:11.818Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:12.363Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:12.404Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:12.404Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:12.563Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:12.563Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:13.386Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:14.408Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:15.304Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:15.433Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:16.457Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:16.628Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:17.480Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:18.505Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:18.595Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:19.386Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:19.518Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:20.536Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:21.437Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:21.548Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:22.561Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:22.645Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:22.645Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:22.772Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:22.772Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:23.480Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:23.597Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:24.618Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 Inactive expired: false
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:25.631Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:26.247Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:26.652Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:27.587Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:27.697Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.507Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.507Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.507Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.507Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.519Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.519Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.519Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.519Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.531Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.540Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.540Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.540Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.540Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.540Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.540Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.552Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.552Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.552Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.552Z debug [RemoteVideoTrackPublication #17: MT37fca4e3b048b714cac5b34ac69019e7] MT37fca4e3b048b714cac5b34ac69019e7: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.572Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.587Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.587Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.591Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.591Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.604Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.604Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.604Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.716Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:28.755Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] Dimensions changed:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.340Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] Dimensions changed:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.592Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.592Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.592Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.592Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.592Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.592Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.605Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.605Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.643Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.644Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.644Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.644Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.644Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.663Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.663Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.663Z debug [RemoteVideoTrackPublication #17: MT37fca4e3b048b714cac5b34ac69019e7] MT37fca4e3b048b714cac5b34ac69019e7: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.676Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.676Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.676Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.688Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.726Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.726Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.728Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.746Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.746Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:29.746Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:30.743Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:31.048Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:31.696Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:31.759Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:32.776Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:32.776Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:32.801Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:32.879Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:32.879Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:33.814Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:34.830Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.162Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.162Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.162Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.162Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.173Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.173Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.173Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.174Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.174Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.174Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.175Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.188Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.189Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.189Z debug [RemoteVideoTrackPublication #17: MT37fca4e3b048b714cac5b34ac69019e7] MT37fca4e3b048b714cac5b34ac69019e7: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.190Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.190Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.190Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.201Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.244Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.244Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.262Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.262Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.262Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.674Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.675Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.674Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.674Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.680Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.688Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.688Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.688Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.688Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.691Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.690Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.704Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.704Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.720Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.751Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.751Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.772Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.772Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.772Z debug [RemoteVideoTrackPublication #17: MT37fca4e3b048b714cac5b34ac69019e7] MT37fca4e3b048b714cac5b34ac69019e7: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.853Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:35.854Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:36.173Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:36.173Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:36.173Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:36.189Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:36.224Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:36.224Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:36.235Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:36.235Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:36.235Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:36.869Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:37.884Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:38.596Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:38.903Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:39.780Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:39.920Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:40.310Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] Dimensions changed:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:40.655Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:40.942Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:41.956Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:42.944Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:42.944Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:42.971Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:42.987Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:42.988Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:43.878Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:43.993Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:45.006Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:45.463Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:46.017Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:47.033Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:47.885Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:48.076Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:48.587Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:48.588Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:49.093Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:50.147Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:50.264Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:51.190Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:51.987Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:52.201Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:53.065Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:53.066Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:53.078Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:53.078Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:53.624Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:54.638Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:55.065Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:55.650Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:55.979Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:56.364Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] Dimensions changed:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:56.662Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:57.700Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:58.604Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:58.718Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:59.757Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:28:59.866Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:00.083Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:00.778Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:01.792Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:02.811Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:03.099Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:03.099Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:03.112Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:03.112Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:03.823Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:04.079Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:04.667Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:04.865Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:05.877Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:06.890Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:07.910Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:08.096Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:29:08.587Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:29:08.587Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:29:08.924Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:09.467Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:29:09.944Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:10.963Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:11.974Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:12.179Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:29:12.993Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:13.195Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+ [Twilio Logger] 2024-08-02T02:29:13.196Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:29:13.247Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+ [Twilio Logger] 2024-08-02T02:29:13.247Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:29:14.016Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:14.267Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:29:15.036Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:16.048Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:16.179Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:29:17.077Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:18.102Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:18.601Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:29:19.070Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:29:19.138Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:20.179Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:20.180Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:29:21.202Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:22.231Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:23.255Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:23.425Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:23.425Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:23.468Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:23.468Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:23.880Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:24.278Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:24.278Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 Inactive expired: false
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:25.299Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:26.323Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:27.347Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:28.375Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:28.379Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:28.589Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:28.589Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:28.684Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:29.397Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:30.423Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:31.446Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:31.532Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] Dimensions changed:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:32.470Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:32.479Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:33.495Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:33.496Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:33.666Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:33.666Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:33.708Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:33.708Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:34.519Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:35.542Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:36.482Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:36.587Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:37.604Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:38.303Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:38.585Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:38.628Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:39.653Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:40.578Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:40.671Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:41.696Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:42.726Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:43.103Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:43.752Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:43.912Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+ [Twilio Logger] 2024-08-02T02:29:43.912Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:29:43.955Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+ [Twilio Logger] 2024-08-02T02:29:43.955Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:29:44.580Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:29:44.782Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:45.805Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:46.826Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:47.852Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:29:47.904Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:29:48.586Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:29:48.587Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:48.680Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:48.864Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:49.880Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:50.637Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] Dimensions changed:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:50.901Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:51.924Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:52.711Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:52.779Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:52.948Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:53.972Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:54.173Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:54.173Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:54.215Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:54.215Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:54.996Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.021Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.518Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.518Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.518Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.518Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.518Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.688Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.688Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.694Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.695Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.729Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.729Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.876Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.877Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.877Z debug [RemoteVideoTrackPublication #4: MTaebae30fa0a4d474afd449446ec364c6] MTaebae30fa0a4d474afd449446ec364c6: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.877Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.877Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:56.879Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:57.086Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:57.517Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:58.102Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:58.594Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:29:59.116Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.066Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.066Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.066Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.066Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.077Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.077Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.078Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.078Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.091Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.091Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.091Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.091Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.102Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.123Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.123Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.123Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.123Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.124Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.124Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.123Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.149Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.174Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.174Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.174Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.174Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.175Z debug [RemoteVideoTrackPublication #17: MT37fca4e3b048b714cac5b34ac69019e7] MT37fca4e3b048b714cac5b34ac69019e7: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.188Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.188Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.188Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.188Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.188Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.520Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] Dimensions changed:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.523Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.523Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.523Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.523Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.523Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.523Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.524Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.524Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.534Z debug [MediaSignaling #2:render_hints] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:00.534Z debug [MediaSignaling #2:render_hints] Outgoing: 
+ [Twilio Logger] 2024-08-02T02:30:00.535Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+ [Twilio Logger] 2024-08-02T02:30:00.535Z debug [RemoteVideoTrackPublication #4: MTaebae30fa0a4d474afd449446ec364c6] MTaebae30fa0a4d474afd449446ec364c6: OFF => ON
+ [Twilio Logger] 2024-08-02T02:30:00.545Z debug [MediaSignaling #2:render_hints] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:00.565Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+ [Twilio Logger] 2024-08-02T02:30:00.565Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] intersectionObserver detected: On => Off
+ [Twilio Logger] 2024-08-02T02:30:00.565Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.565Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.566Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.565Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.574Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.574Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.577Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.577Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.593Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.594Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.594Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.594Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.594Z debug [RemoteVideoTrackPublication #17: MT37fca4e3b048b714cac5b34ac69019e7] MT37fca4e3b048b714cac5b34ac69019e7: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.594Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.594Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.595Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.595Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.595Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.606Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.615Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.615Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.626Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.626Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.627Z debug [RemoteVideoTrackPublication #4: MTaebae30fa0a4d474afd449446ec364c6] MTaebae30fa0a4d474afd449446ec364c6: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.650Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.650Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.661Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.661Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.661Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:00.901Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:01.196Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:02.208Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:02.322Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:03.231Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:04.250Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:04.334Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:04.334Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:04.356Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:04.357Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:04.884Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:05.263Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:05.925Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"body":{"version":2,"type":"update","sid":"RMacdd42c65791cdc2fac0eb27406466e0","name":"RMacdd42c65791cdc2fac0eb27406466e0","participant":{"sid":"PA91ca6a4ea2ed55f71d142a8410a8a9b2","identity":"11947.4R24QqEYun.e85ce6f26b224c8da4dc6380faf4d4fc","tracks":[{"kind":"video","priority":"standard","id":"82a3302e-09ec-4791-8208-a40531ca05b4","enabled":true,"sid":"MTb10419a9c7f68c4854626ffb70ce665a","name":"screen-share","state":"ready"},{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}],"revision":7,"state":"connected","media_warnings":[]},"participants":[{"sid":"PA0c65ada01afaa9720b54c6e9be1b16fe","identity":"98482.MuQDxoMfsS.4fdb924f230c4779b4d6118466c0ab13","tracks":[{"kind":"audio","priority":"standard","id":"9f44fc1c-aff3-4425-8dd5-8e399e09a3b8","enabled":false,"sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b","name":"f04aebc6-4823-46e5-a627-3f389ea73b0c","state":"ready"},{"kind":"data","priority":"standard","id":"1d134bf0-22c9-441d-823a-40a0ceb7f3b3","enabled":true,"sid":"MT64985fcf76cb1d341d49732f01831f8c","name":"17970e26-3bd2-4554-9254-e45da6bedbb6","state":"ready"}],"revision":4,"state":"connected"}],"recording":{"enabled":false,"revision":1,"is_recording":false},"subscribed":{"revision":11,"tracks":[{"id":"08a885f8-0a02-45da-a3ed-bde4ba06056d","sid":"MT37fca4e3b048b714cac5b34ac69019e7"},{"id":"140da135-f61f-47ed-a166-79a72e88ed9b","sid":"MTb0fa216d1e081cfc3ff5229cef7e3b58"},{"id":"21022d71-9508-4c55-bd44-dc3481154b9a","sid":"MTa64622c72acacfed1ab22c460f98d651"},{"id":"5ba20052-c2bc-4c47-86ac-5e9191eb4ecf","sid":"MTaebae30fa0a4d474afd449446ec364c6"},{"id":"776e4c39-be94-4ec8-9f66-36a0abb641ff","sid":"MT14cf20e90f25a632fd4efe513b0185ad"},{"id":"a3615990-1940-4b28-a1fe-67e5d3a7cb43","sid":"MT03e22bc3282bdee2c4e9c0538b46c136"},{"id":"aa271729-bee1-45e0-a75a-889116ad4e4a","sid":"MT32a6f68565c0995ca385f3be25e82028"},{"id":"ad4c03f1-3e82-4aa3-ae0c-e19d115ad735","sid":"MT64985fcf76cb1d341d49732f01831f8c"},{"id":"b92e0c9c-1cf2-4bc1-bc6a-eca03536d999","sid":"MTfc9bf44172851a6040da20038cd9b557"},{"id":"c70dd96e-7873-4de4-a747-060f893c2904","sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b"},{"id":"d1842a1e-f1a4-4221-aae2-d7a113885aea","sid":"MT37e06732df629c6ff4c3bf8cb164efe1"},{"id":"e25b1cd6-0228-43c2-bd5a-68b6d3f25ccd","sid":"MTdf840a626eb959226bf6c08490856cad"},{"id":"f7d33b21-36be-427d-a203-949120e6a832","sid":"MTa16af53ddb36bba70df985ab01a64df5"}]},"published":{"revision":7,"tracks":[{"kind":"video","priority":"standard","id":"82a3302e-09ec-4791-8208-a40531ca05b4","enabled":true,"sid":"MTb10419a9c7f68c4854626ffb70ce665a","name":"screen-share","state":"ready"},{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}]}},"type":"msg"}
+index.d6b3334a.js:19391 disable $ c70dd96e-7873-4de4-a747-060f893c2904
+ [Twilio Logger] 2024-08-02T02:30:06.276Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:07.123Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:30:07.305Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:08.342Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:08.597Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:30:08.597Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:30:08.978Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:30:09.368Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:10.381Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:11.398Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:11.924Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:30:12.419Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:13.078Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:30:13.444Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:14.422Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+ [Twilio Logger] 2024-08-02T02:30:14.422Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:30:14.447Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+ [Twilio Logger] 2024-08-02T02:30:14.447Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:30:14.458Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:15.474Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:16.508Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:16.732Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:17.186Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:17.535Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:18.567Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:18.585Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:19.580Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:20.597Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:21.178Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:21.539Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:21.611Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:22.625Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:23.666Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.337Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.337Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.337Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.337Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.337Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.337Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.337Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.349Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.349Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.349Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.349Z debug [RemoteVideoTrackPublication #4: MTaebae30fa0a4d474afd449446ec364c6] MTaebae30fa0a4d474afd449446ec364c6: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.369Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.370Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.370Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.487Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.487Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.506Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.506Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:24.706Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 Trigger token change | flag isRePublishStatusUser before change is: false
+index.d6b3334a.js:19391 Flag isRePublishStatusUser in admin room component change to: true
+index.d6b3334a.js:19391 Updating status of user in admin room component to: busy
+index.d6b3334a.js:19391 Inactive expired: false
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.277Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 Message in socket:  Array(5)
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.736Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.890Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.890Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.890Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.890Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.902Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.902Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.902Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.902Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.916Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.922Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.922Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.922Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.922Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.937Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.937Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.937Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.937Z debug [RemoteVideoTrackPublication #17: MT37fca4e3b048b714cac5b34ac69019e7] MT37fca4e3b048b714cac5b34ac69019e7: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.947Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] Dimensions changed:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.948Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.960Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.960Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.960Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:25.974Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:26.011Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:26.011Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:26.025Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:26.025Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:26.025Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:26.341Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 Flag isRePublishStatusUser in admin room component change to: false
+index.d6b3334a.js:19391 Message in socket:  Array(5)
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:26.757Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.006Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.006Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.006Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.006Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.018Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.018Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.018Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.018Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: OFF => ON
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.029Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.047Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.047Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.047Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.059Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.097Z debug [RemoteVideoTrack #20: MT37fca4e3b048b714cac5b34ac69019e7] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.097Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.109Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.109Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.109Z debug [RemoteVideoTrackPublication #17: MT37fca4e3b048b714cac5b34ac69019e7] MT37fca4e3b048b714cac5b34ac69019e7: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.216Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.215Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.216Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.245Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.268Z debug [RemoteVideoTrack #19: MTdf840a626eb959226bf6c08490856cad] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.269Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.280Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.280Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.280Z debug [RemoteVideoTrackPublication #16: MTdf840a626eb959226bf6c08490856cad] MTdf840a626eb959226bf6c08490856cad: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:27.798Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:28.587Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:28.587Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:28.834Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:29.304Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:29.846Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:30.860Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:31.148Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:31.874Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:32.889Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:33.387Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:33.910Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:34.600Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:34.600Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:34.634Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:34.634Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:30:34.920Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:35.935Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:35.949Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:30:37.359Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:37.386Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:30:38.373Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:38.593Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:30:39.391Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:40.409Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:40.756Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:30:41.424Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:41.478Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:30:42.441Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:43.454Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:44.475Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:44.696Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+ [Twilio Logger] 2024-08-02T02:30:44.696Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:30:44.768Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+ [Twilio Logger] 2024-08-02T02:30:44.768Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:30:45.496Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:30:45.502Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:45.556Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:30:46.514Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:47.533Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:48.571Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:30:48.586Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:30:48.586Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:49.579Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:49.587Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:50.358Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:50.604Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:51.625Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:52.640Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:53.663Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:53.679Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:54.686Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:54.802Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:54.802Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:54.870Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:54.870Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:55.159Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:55.698Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:56.713Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:57.737Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:57.780Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:58.586Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:58.750Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:59.770Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:30:59.959Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:00.793Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:01.777Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:01.805Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:02.821Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:03.836Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:04.760Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:04.848Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:04.909Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:04.909Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:05.024Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:05.024Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:05.862Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:05.878Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:06.876Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:07.907Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:08.587Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:08.588Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:08.927Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:09.561Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:09.884Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:31:09.968Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:31:10.991Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:31:12.003Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:31:13.029Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:31:13.997Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:31:14.052Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:31:14.367Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:31:15.067Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+ [Twilio Logger] 2024-08-02T02:31:15.067Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:15.081Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:15.194Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:15.194Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:16.106Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:17.135Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:18.079Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:18.163Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:18.585Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:19.174Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:19.197Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:20.210Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:21.234Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:22.178Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:22.259Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:23.281Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:23.982Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:24.307Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 Inactive expired: false
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:25.317Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:25.317Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:25.361Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:25.446Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:25.446Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:26.178Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:26.392Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:27.409Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:28.433Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:28.602Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:28.603Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:28.783Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:29.453Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:30.278Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:30.476Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:31.500Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:32.536Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:33.558Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:33.587Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:34.384Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:34.595Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:35.564Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:35.564Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:35.618Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:35.691Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:35.691Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:35.778Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"body":{"version":2,"type":"update","sid":"RMacdd42c65791cdc2fac0eb27406466e0","name":"RMacdd42c65791cdc2fac0eb27406466e0","participant":{"sid":"PA91ca6a4ea2ed55f71d142a8410a8a9b2","identity":"11947.4R24QqEYun.e85ce6f26b224c8da4dc6380faf4d4fc","tracks":[{"kind":"video","priority":"standard","id":"82a3302e-09ec-4791-8208-a40531ca05b4","enabled":true,"sid":"MTb10419a9c7f68c4854626ffb70ce665a","name":"screen-share","state":"ready"},{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}],"revision":7,"state":"connected","media_warnings":[]},"participants":[{"sid":"PA0c65ada01afaa9720b54c6e9be1b16fe","identity":"98482.MuQDxoMfsS.4fdb924f230c4779b4d6118466c0ab13","tracks":[{"kind":"audio","priority":"standard","id":"9f44fc1c-aff3-4425-8dd5-8e399e09a3b8","enabled":true,"sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b","name":"f04aebc6-4823-46e5-a627-3f389ea73b0c","state":"ready"},{"kind":"data","priority":"standard","id":"1d134bf0-22c9-441d-823a-40a0ceb7f3b3","enabled":true,"sid":"MT64985fcf76cb1d341d49732f01831f8c","name":"17970e26-3bd2-4554-9254-e45da6bedbb6","state":"ready"}],"revision":5,"state":"connected"}],"recording":{"enabled":false,"revision":1,"is_recording":false},"subscribed":{"revision":11,"tracks":[{"id":"08a885f8-0a02-45da-a3ed-bde4ba06056d","sid":"MT37fca4e3b048b714cac5b34ac69019e7"},{"id":"140da135-f61f-47ed-a166-79a72e88ed9b","sid":"MTb0fa216d1e081cfc3ff5229cef7e3b58"},{"id":"21022d71-9508-4c55-bd44-dc3481154b9a","sid":"MTa64622c72acacfed1ab22c460f98d651"},{"id":"5ba20052-c2bc-4c47-86ac-5e9191eb4ecf","sid":"MTaebae30fa0a4d474afd449446ec364c6"},{"id":"776e4c39-be94-4ec8-9f66-36a0abb641ff","sid":"MT14cf20e90f25a632fd4efe513b0185ad"},{"id":"a3615990-1940-4b28-a1fe-67e5d3a7cb43","sid":"MT03e22bc3282bdee2c4e9c0538b46c136"},{"id":"aa271729-bee1-45e0-a75a-889116ad4e4a","sid":"MT32a6f68565c0995ca385f3be25e82028"},{"id":"ad4c03f1-3e82-4aa3-ae0c-e19d115ad735","sid":"MT64985fcf76cb1d341d49732f01831f8c"},{"id":"b92e0c9c-1cf2-4bc1-bc6a-eca03536d999","sid":"MTfc9bf44172851a6040da20038cd9b557"},{"id":"c70dd96e-7873-4de4-a747-060f893c2904","sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b"},{"id":"d1842a1e-f1a4-4221-aae2-d7a113885aea","sid":"MT37e06732df629c6ff4c3bf8cb164efe1"},{"id":"e25b1cd6-0228-43c2-bd5a-68b6d3f25ccd","sid":"MTdf840a626eb959226bf6c08490856cad"},{"id":"f7d33b21-36be-427d-a203-949120e6a832","sid":"MTa16af53ddb36bba70df985ab01a64df5"}]},"published":{"revision":7,"tracks":[{"kind":"video","priority":"standard","id":"82a3302e-09ec-4791-8208-a40531ca05b4","enabled":true,"sid":"MTb10419a9c7f68c4854626ffb70ce665a","name":"screen-share","state":"ready"},{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}]}},"type":"msg"}
+index.d6b3334a.js:19391 enabled  $ c70dd96e-7873-4de4-a747-060f893c2904
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:36.635Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:37.659Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:38.388Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:38.479Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:38.603Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:38.687Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:39.710Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:40.722Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:41.738Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:42.477Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:42.790Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:43.189Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:43.835Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:44.888Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:45.829Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:45.829Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:45.915Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:45.963Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:45.963Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:46.576Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:46.929Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:47.973Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:47.990Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:48.586Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:48.586Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:48.997Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:50.031Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:50.676Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:51.058Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:51.638Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"body":{"version":2,"type":"update","sid":"RMacdd42c65791cdc2fac0eb27406466e0","name":"RMacdd42c65791cdc2fac0eb27406466e0","participant":{"sid":"PA91ca6a4ea2ed55f71d142a8410a8a9b2","identity":"11947.4R24QqEYun.e85ce6f26b224c8da4dc6380faf4d4fc","tracks":[{"kind":"video","priority":"standard","id":"82a3302e-09ec-4791-8208-a40531ca05b4","enabled":true,"sid":"MTb10419a9c7f68c4854626ffb70ce665a","name":"screen-share","state":"ready"},{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}],"revision":7,"state":"connected","media_warnings":[]},"participants":[{"sid":"PA0c65ada01afaa9720b54c6e9be1b16fe","identity":"98482.MuQDxoMfsS.4fdb924f230c4779b4d6118466c0ab13","tracks":[{"kind":"audio","priority":"standard","id":"9f44fc1c-aff3-4425-8dd5-8e399e09a3b8","enabled":true,"sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b","name":"f04aebc6-4823-46e5-a627-3f389ea73b0c","state":"ready"},{"kind":"data","priority":"standard","id":"1d134bf0-22c9-441d-823a-40a0ceb7f3b3","enabled":true,"sid":"MT64985fcf76cb1d341d49732f01831f8c","name":"17970e26-3bd2-4554-9254-e45da6bedbb6","state":"ready"}],"revision":6,"state":"connected"}],"recording":{"enabled":false,"revision":1,"is_recording":false},"subscribed":{"revision":11,"tracks":[{"id":"08a885f8-0a02-45da-a3ed-bde4ba06056d","sid":"MT37fca4e3b048b714cac5b34ac69019e7"},{"id":"140da135-f61f-47ed-a166-79a72e88ed9b","sid":"MTb0fa216d1e081cfc3ff5229cef7e3b58"},{"id":"21022d71-9508-4c55-bd44-dc3481154b9a","sid":"MTa64622c72acacfed1ab22c460f98d651"},{"id":"5ba20052-c2bc-4c47-86ac-5e9191eb4ecf","sid":"MTaebae30fa0a4d474afd449446ec364c6"},{"id":"776e4c39-be94-4ec8-9f66-36a0abb641ff","sid":"MT14cf20e90f25a632fd4efe513b0185ad"},{"id":"a3615990-1940-4b28-a1fe-67e5d3a7cb43","sid":"MT03e22bc3282bdee2c4e9c0538b46c136"},{"id":"aa271729-bee1-45e0-a75a-889116ad4e4a","sid":"MT32a6f68565c0995ca385f3be25e82028"},{"id":"ad4c03f1-3e82-4aa3-ae0c-e19d115ad735","sid":"MT64985fcf76cb1d341d49732f01831f8c"},{"id":"b92e0c9c-1cf2-4bc1-bc6a-eca03536d999","sid":"MTfc9bf44172851a6040da20038cd9b557"},{"id":"c70dd96e-7873-4de4-a747-060f893c2904","sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b"},{"id":"d1842a1e-f1a4-4221-aae2-d7a113885aea","sid":"MT37e06732df629c6ff4c3bf8cb164efe1"},{"id":"e25b1cd6-0228-43c2-bd5a-68b6d3f25ccd","sid":"MTdf840a626eb959226bf6c08490856cad"},{"id":"f7d33b21-36be-427d-a203-949120e6a832","sid":"MTa16af53ddb36bba70df985ab01a64df5"}]},"published":{"revision":7,"tracks":[{"kind":"video","priority":"standard","id":"82a3302e-09ec-4791-8208-a40531ca05b4","enabled":true,"sid":"MTb10419a9c7f68c4854626ffb70ce665a","name":"screen-share","state":"ready"},{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}]}},"type":"msg"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.035Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.079Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:17969 Room received event: TRACK_PUBLISHED MT78d2018570593f4aedf73cd69e5626d2 screen-share
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.328Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"body":{"version":2,"type":"update","sid":"RMacdd42c65791cdc2fac0eb27406466e0","name":"RMacdd42c65791cdc2fac0eb27406466e0","participant":{"sid":"PA91ca6a4ea2ed55f71d142a8410a8a9b2","identity":"11947.4R24QqEYun.e85ce6f26b224c8da4dc6380faf4d4fc","tracks":[{"kind":"video","priority":"standard","id":"82a3302e-09ec-4791-8208-a40531ca05b4","enabled":true,"sid":"MTb10419a9c7f68c4854626ffb70ce665a","name":"screen-share","state":"ready"},{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}],"revision":7,"state":"connected","media_warnings":[]},"participants":[{"sid":"PA0c65ada01afaa9720b54c6e9be1b16fe","identity":"98482.MuQDxoMfsS.4fdb924f230c4779b4d6118466c0ab13","tracks":[{"kind":"audio","priority":"standard","id":"9f44fc1c-aff3-4425-8dd5-8e399e09a3b8","enabled":true,"sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b","name":"f04aebc6-4823-46e5-a627-3f389ea73b0c","state":"ready"},{"kind":"video","priority":"standard","id":"cd288fb0-0a2a-450e-b97d-5df25af9b618","enabled":true,"sid":"MT78d2018570593f4aedf73cd69e5626d2","name":"screen-share","state":"ready"},{"kind":"data","priority":"standard","id":"1d134bf0-22c9-441d-823a-40a0ceb7f3b3","enabled":true,"sid":"MT64985fcf76cb1d341d49732f01831f8c","name":"17970e26-3bd2-4554-9254-e45da6bedbb6","state":"ready"}],"revision":7,"state":"connected"}],"recording":{"enabled":false,"revision":1,"is_recording":false},"subscribed":{"revision":11,"tracks":[{"id":"08a885f8-0a02-45da-a3ed-bde4ba06056d","sid":"MT37fca4e3b048b714cac5b34ac69019e7"},{"id":"140da135-f61f-47ed-a166-79a72e88ed9b","sid":"MTb0fa216d1e081cfc3ff5229cef7e3b58"},{"id":"21022d71-9508-4c55-bd44-dc3481154b9a","sid":"MTa64622c72acacfed1ab22c460f98d651"},{"id":"5ba20052-c2bc-4c47-86ac-5e9191eb4ecf","sid":"MTaebae30fa0a4d474afd449446ec364c6"},{"id":"776e4c39-be94-4ec8-9f66-36a0abb641ff","sid":"MT14cf20e90f25a632fd4efe513b0185ad"},{"id":"a3615990-1940-4b28-a1fe-67e5d3a7cb43","sid":"MT03e22bc3282bdee2c4e9c0538b46c136"},{"id":"aa271729-bee1-45e0-a75a-889116ad4e4a","sid":"MT32a6f68565c0995ca385f3be25e82028"},{"id":"ad4c03f1-3e82-4aa3-ae0c-e19d115ad735","sid":"MT64985fcf76cb1d341d49732f01831f8c"},{"id":"b92e0c9c-1cf2-4bc1-bc6a-eca03536d999","sid":"MTfc9bf44172851a6040da20038cd9b557"},{"id":"c70dd96e-7873-4de4-a747-060f893c2904","sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b"},{"id":"d1842a1e-f1a4-4221-aae2-d7a113885aea","sid":"MT37e06732df629c6ff4c3bf8cb164efe1"},{"id":"e25b1cd6-0228-43c2-bd5a-68b6d3f25ccd","sid":"MTdf840a626eb959226bf6c08490856cad"},{"id":"f7d33b21-36be-427d-a203-949120e6a832","sid":"MTa16af53ddb36bba70df985ab01a64df5"}]},"published":{"revision":7,"tracks":[{"kind":"video","priority":"standard","id":"82a3302e-09ec-4791-8208-a40531ca05b4","enabled":true,"sid":"MTb10419a9c7f68c4854626ffb70ce665a","name":"screen-share","state":"ready"},{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}]}},"type":"msg"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.329Z info [RemoteParticipant #4: PA0c65ada01afaa9720b54c6e9be1b16fe] Added a new VideoTrackPublication:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.329Z debug [RemoteParticipant #4: PA0c65ada01afaa9720b54c6e9be1b16fe] VideoTrackPublication:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.632Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"body":{"version":2,"type":"update","peer_connections":[{"id":"f73c1c48-ab28-4457-b43c-ba55f87c9d7c","description":{"type":"offer","sdp":"v=0\r\no=- 3931554398 3931554407 IN IP4 0.0.0.0\r\ns=VMb90211d5bf4eb44fe083f045b68a59c9\r\nc=IN IP4 0.0.0.0\r\nt=0 0\r\na=ice-lite\r\na=group:BUNDLE 0 1 2 audio0 video0 video1 audio1 audio2 audio3 video2 video3 video4\r\na=msid-semantic:WMS *\r\nm=audio 1 UDP/TLS/RTP/SAVPF 111 0\r\nc=IN IP4 0.0.0.0\r\na=rtpmap:111 opus/48000/2\r\na=rtpmap:0 PCMU/8000\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=rtcp-mux\r\na=setup:actpass\r\na=recvonly\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=mid:0\r\na=ice-ufrag:eM62\r\na=ice-pwd:f3fcc86CEUhlOe5773f1GC\r\na=candidate:3 1 UDP 2013266429 18.180.220.243 16470 typ host\r\na=candidate:2 1 UDP 2013266430 18.180.220.243 14659 typ host\r\na=candidate:3 2 UDP 2013266428 18.180.220.243 15628 typ host\r\na=candidate:2 2 UDP 2013266429 18.180.220.243 19579 typ host\r\na=fingerprint:sha-256 20:20:16:32:F0:39:E8:B0:71:4F:BB:A6:14:22:F3:80:5A:2C:D7:6B:65:E6:87:E8:89:A0:17:DC:9D:05:AF:06\r\nm=video 1 UDP/TLS/RTP/SAVPF 96 106 116 118\r\nc=IN IP4 0.0.0.0\r\na=rtpmap:96 VP8/90000\r\na=rtpmap:106 H264/90000\r\na=rtpmap:116 red/90000\r\na=rtpmap:118 ulpfec/90000\r\na=fmtp:106 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=setup:actpass\r\na=recvonly\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=mid:1\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:106 nack\r\na=rtcp-fb:106 nack pli\r\na=rtcp-fb:106 goog-remb\r\na=rtcp-fb:106 transport-cc\r\na=rtcp-fb:106 ccm fir\r\na=ice-ufrag:eM62\r\na=ice-pwd:f3fcc86CEUhlOe5773f1GC\r\na=candidate:3 1 UDP 2013266429 18.180.220.243 16470 typ host\r\na=candidate:2 1 UDP 2013266430 18.180.220.243 14659 typ host\r\na=candidate:3 2 UDP 2013266428 18.180.220.243 15628 typ host\r\na=candidate:2 2 UDP 2013266429 18.180.220.243 19579 typ host\r\na=fingerprint:sha-256 20:20:16:32:F0:39:E8:B0:71:4F:BB:A6:14:22:F3:80:5A:2C:D7:6B:65:E6:87:E8:89:A0:17:DC:9D:05:AF:06\r\nm=application 1 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=sctp-port:5000\r\na=setup:actpass\r\na=mid:2\r\na=ice-ufrag:eM62\r\na=ice-pwd:f3fcc86CEUhlOe5773f1GC\r\na=candidate:3 1 UDP 2013266429 18.180.220.243 16470 typ host\r\na=candidate:2 1 UDP 2013266430 18.180.220.243 14659 typ host\r\na=candidate:3 2 UDP 2013266428 18.180.220.243 15628 typ host\r\na=candidate:2 2 UDP 2013266429 18.180.220.243 19579 typ host\r\na=fingerprint:sha-256 20:20:16:32:F0:39:E8:B0:71:4F:BB:A6:14:22:F3:80:5A:2C:D7:6B:65:E6:87:E8:89:A0:17:DC:9D:05:AF:06\r\nm=audio 1 UDP/TLS/RTP/SAVPF 111\r\nc=IN IP4 0.0.0.0\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=rtcp-mux\r\na=mid:audio0\r\na=setup:actpass\r\na=sendrecv\r\na=msid:default 776e4c39-be94-4ec8-9f66-36a0abb641ff\r\na=ssrc:3018340075 cname:user2590382883@host-bb1d9203\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=ice-ufrag:eM62\r\na=ice-pwd:f3fcc86CEUhlOe5773f1GC\r\na=candidate:3 1 UDP 2013266429 18.180.220.243 16470 typ host\r\na=candidate:2 1 UDP 2013266430 18.180.220.243 14659 typ host\r\na=candidate:3 2 UDP 2013266428 18.180.220.243 15628 typ host\r\na=candidate:2 2 UDP 2013266429 18.180.220.243 19579 typ host\r\na=fingerprint:sha-256 20:20:16:32:F0:39:E8:B0:71:4F:BB:A6:14:22:F3:80:5A:2C:D7:6B:65:E6:87:E8:89:A0:17:DC:9D:05:AF:06\r\nm=video 1 UDP/TLS/RTP/SAVPF 96 116 118\r\nc=IN IP4 0.0.0.0\r\na=rtpmap:96 VP8/90000\r\na=rtpmap:116 red/90000\r\na=rtpmap:118 ulpfec/90000\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=rtcp-mux\r\na=mid:video0\r\na=rtcp-rsize\r\na=setup:actpass\r\na=sendrecv\r\na=msid:default 21022d71-9508-4c55-bd44-dc3481154b9a\r\na=ssrc:1786762282 cname:user2590382883@host-bb1d9203\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=ice-ufrag:eM62\r\na=ice-pwd:f3fcc86CEUhlOe5773f1GC\r\na=candidate:3 1 UDP 2013266429 18.180.220.243 16470 typ host\r\na=candidate:2 1 UDP 2013266430 18.180.220.243 14659 typ host\r\na=candidate:3 2 UDP 2013266428 18.180.220.243 15628 typ host\r\na=candidate:2 2 UDP 2013266429 18.180.220.243 19579 typ host\r\na=fingerprint:sha-256 20:20:16:32:F0:39:E8:B0:71:4F:BB:A6:14:22:F3:80:5A:2C:D7:6B:65:E6:87:E8:89:A0:17:DC:9D:05:AF:06\r\nm=video 1 UDP/TLS/RTP/SAVPF 96 116 118\r\nc=IN IP4 0.0.0.0\r\na=rtpmap:96 VP8/90000\r\na=rtpmap:116 red/90000\r\
+index.d6b3334a.js:17969 Received event: TRACK_SUBSCRIBED MT78d2018570593f4aedf73cd69e5626d2 screen-share
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.636Z debug [RemoteVideoTrack #21: undefined] Initializing
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.636Z info [RemoteParticipant #4: PA0c65ada01afaa9720b54c6e9be1b16fe] Added a new VideoTrack:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.636Z debug [RemoteParticipant #4: PA0c65ada01afaa9720b54c6e9be1b16fe] VideoTrack:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.640Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] Attempting to attach to element:
+index.d6b3334a.js:19391 📋 2024-08-02T11:31:51+09:00: [4b3fdbf1-6efb-47ef-ab49-014806d63c4a] Display remote track c63ef380-e51e-4963-a5e3-041d3c9deab4 muted:true 254562ms (319240ms)
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.644Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.644Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.643Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] intersectionObserver detected: Off => On
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.644Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.649Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"body":{"session":"6165fdb61565434e6d62134457288d36acdd42c65791cdc2fac0eb27406466e091ca6a4ea2ed55f71d142a8410a8a9b2608c8fd709fedaeebc5628a9429abf4a","type":"update","version":2,"peer_connections":[{"description":{"type":"answer","revision":10,"sdp":"v=0\r\no=- 8772312773060325430 11 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2 audio0 video0 video1 audio1 audio2 audio3 video2 video3 video4\r\na=msid-semantic: WMS\r\nm=audio 61687 UDP/TLS/RTP/SAVPF 111 0\r\nc=IN IP4 130.62.68.248\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=candidate:3784705614 1 udp 2122260223 192.168.43.24 61687 typ host generation 0 network-id 1 network-cost 10\r\na=candidate:542658820 1 udp 1686052607 130.62.68.248 61687 typ srflx raddr 192.168.43.24 rport 61687 generation 0 network-id 1 network-cost 10\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=sendonly\r\na=msid:- 45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:0 PCMU/8000\r\na=ssrc:3925384087 cname:8fjlZ2FkclCveVxB\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 106 116 118\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:1\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=sendonly\r\na=msid:- 1c503e31-d931-45e8-bd1a-3e988718079f\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:106 H264/90000\r\na=rtcp-fb:106 goog-remb\r\na=rtcp-fb:106 transport-cc\r\na=rtcp-fb:106 ccm fir\r\na=rtcp-fb:106 nack\r\na=rtcp-fb:106 nack pli\r\na=fmtp:106 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:116 red/90000\r\na=rtpmap:118 ulpfec/90000\r\na=ssrc-group:FID 3512522728 1252898589\r\na=ssrc:3512522728 cname:8fjlZ2FkclCveVxB\r\na=ssrc:1252898589 cname:8fjlZ2FkclCveVxB\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:2\r\na=sctp-port:5000\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:audio0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10;useinbandfec=1\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 116 118\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:video0\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=sendrecv\r\na=msid:- e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:116 red/90000\r\na=rtpmap:118 ulpfec/90000\r\na=ssrc-group:FID 3279206728 4054347394\r\na=ssrc:3279206728 cname:8fjlZ2FkclCveVxB\r\na=ssrc:4054347394 cname:8fjlZ2FkclCveVxB\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 116 118\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:video1\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=sendrecv\r\na=msid:- 82a3302e-09ec-4791-8208-a40531ca05b4\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:116 red/90000\r\na=rtpmap:118 ulpfec/90000\r\na=ssrc-group:FID 3429081403 1207592209\r\na=ssrc:3429081403 cname:8fjlZ2FkclCveVxB\r\na=ssrc:1207592209 cname:8fjlZ2FkclCveVxB\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:audio1\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10;useinbandfec=1\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:audio2\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10;useinbandfec=1\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:audio3\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10;useinbandfec=1\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 116 118\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:video2\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:116 red/90000\r\na=rtpmap:118 ulpfec/90000\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 116 118\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:video3\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:116 red/90000\r\na=rtpmap:118 ulpfec/90000\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 116 118\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:passive\r\na=mid:video4\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=recvonly\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:116 red/90000\r\na=rtpmap:118 ulpfec/90000\r\n"},"id":"f73c1c48-ab28-4457-b43c-ba55f87c9d7c"}],"participant":{"revision":7,"tracks":[{"enabled":true,"id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","kind":"audio","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","priority":"standard","audio_processor":"krisp"},{"enabled":true,"id":"23c46be1-44c8-48e9-8861-de2cf40113a1","kind":"data","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","priority":"standard"},{"enabled":true,"id":"1c503e31-d931-45e8-bd1a-3e988718079f","kind":"video","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","priority":"standard"},{"enabled":true,"id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","kind":"video","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","priority":"standard"},{"enabled":true,"id":"82a3302e-09ec-4791-8208-a40531ca05b4","kind":"video","name":"screen-share","priority":"standard"}]}},"type":"msg"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.662Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.662Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:52.706Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:53.102Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:53.620Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:53.620Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] Dimensions:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:53.620Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] Started
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:54.135Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:54.677Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.152Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.614Z info [LocalParticipant #1: PA91ca6a4ea2ed55f71d142a8410a8a9b2] Removed a VideoTrack:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.614Z debug [LocalParticipant #1: PA91ca6a4ea2ed55f71d142a8410a8a9b2] VideoTrack:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.614Z info [LocalParticipant #1: PA91ca6a4ea2ed55f71d142a8410a8a9b2] Removed a LocalVideoTrack:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.614Z debug [LocalParticipant #1: PA91ca6a4ea2ed55f71d142a8410a8a9b2] LocalVideoTrack:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.614Z info [LocalParticipant #1: PA91ca6a4ea2ed55f71d142a8410a8a9b2] Removed a VideoTrackPublication:
+ [Twilio Logger] 2024-08-02T02:31:55.614Z debug [LocalParticipant #1: PA91ca6a4ea2ed55f71d142a8410a8a9b2] VideoTrackPublication:
+ [Twilio Logger] 2024-08-02T02:31:55.614Z info [LocalVideoTrack #12: 7d33e296-ff5c-48f9-b0df-4f1fa782af84] Stopping
+ [Twilio Logger] 2024-08-02T02:31:55.614Z debug [LocalVideoTrack #12: 7d33e296-ff5c-48f9-b0df-4f1fa782af84] Ended
+index.d6b3334a.js:19391 📋 2024-08-02T11:31:54+09:00: [4b3fdbf1-6efb-47ef-ab49-014806d63c4a] Remove track 7d33e296-ff5c-48f9-b0df-4f1fa782af84 2974ms (322214ms)
+index.d6b3334a.js:19391 📋 2024-08-02T11:31:54+09:00: [4b3fdbf1-6efb-47ef-ab49-014806d63c4a] Remove track out of store 7d33e296-ff5c-48f9-b0df-4f1fa782af84 1ms (322215ms)
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.624Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.624Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.630Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"body":{"session":"6165fdb61565434e6d62134457288d36acdd42c65791cdc2fac0eb27406466e091ca6a4ea2ed55f71d142a8410a8a9b2608c8fd709fedaeebc5628a9429abf4a","type":"update","version":2,"participant":{"revision":8,"tracks":[{"enabled":true,"id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","kind":"audio","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","priority":"standard","audio_processor":"krisp"},{"enabled":true,"id":"23c46be1-44c8-48e9-8861-de2cf40113a1","kind":"data","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","priority":"standard"},{"enabled":true,"id":"1c503e31-d931-45e8-bd1a-3e988718079f","kind":"video","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","priority":"standard"},{"enabled":true,"id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","kind":"video","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","priority":"standard"}]}},"type":"msg"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.639Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"body":{"session":"6165fdb61565434e6d62134457288d36acdd42c65791cdc2fac0eb27406466e091ca6a4ea2ed55f71d142a8410a8a9b2608c8fd709fedaeebc5628a9429abf4a","type":"update","version":2,"peer_connections":[{"description":{"type":"offer","revision":11,"sdp":"v=0\r\no=- 8772312773060325430 12 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2 audio0 video0 video1 audio1 audio2 audio3 video2 video3 video4\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=audio 61687 UDP/TLS/RTP/SAVPF 111 0\r\nc=IN IP4 130.62.68.248\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=candidate:3784705614 1 udp 2122260223 192.168.43.24 61687 typ host generation 0 network-id 1 network-cost 10\r\na=candidate:542658820 1 udp 1686052607 130.62.68.248 61687 typ srflx raddr 192.168.43.24 rport 61687 generation 0 network-id 1 network-cost 10\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:- 45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:0 PCMU/8000\r\na=ssrc:3925384087 cname:8fjlZ2FkclCveVxB\r\na=ssrc:3925384087 msid:- 45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 106 116 118 97 107 117\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:actpass\r\na=mid:1\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:14 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:13 urn:3gpp:video-orientation\r\na=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:10 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:11 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=sendrecv\r\na=msid:- 1c503e31-d931-45e8-bd1a-3e988718079f\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:106 H264/90000\r\na=rtcp-fb:106 goog-remb\r\na=rtcp-fb:106 transport-cc\r\na=rtcp-fb:106 ccm fir\r\na=rtcp-fb:106 nack\r\na=rtcp-fb:106 nack pli\r\na=fmtp:106 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:116 red/90000\r\na=rtpmap:118 ulpfec/90000\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=106\r\na=rtpmap:117 rtx/90000\r\na=fmtp:117 apt=116\r\na=ssrc-group:FID 3512522728 1252898589\r\na=ssrc:3512522728 cname:8fjlZ2FkclCveVxB\r\na=ssrc:3512522728 msid:- 1c503e31-d931-45e8-bd1a-3e988718079f\r\na=ssrc:1252898589 cname:8fjlZ2FkclCveVxB\r\na=ssrc:1252898589 msid:- 1c503e31-d931-45e8-bd1a-3e988718079f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\na=max-message-size:262144\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:1D:9C:15:27:54:A1:D2:3E:AC:54:ED:F2:DF:81:B8:AE:87:B7:BA\r\na=setup:actpass\r\na=mid:audio0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10;useinbandfec=1\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 116 118 97 117\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:jvvf\r\na=ice-pwd:Rqd9IQ20vLTwFIdLGwupyQvk\r\na=ice-options:trickle\r\na=fingerprint:sha-256 62:06:37:D9:9C:AC:9C:64:8E:B2:83:31:AE:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.640Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:55.953Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"body":{"version":2,"type":"update","sid":"RMacdd42c65791cdc2fac0eb27406466e0","name":"4b3fdbf1-6efb-47ef-ab49-014806d63c4a","participant":{"sid":"PA91ca6a4ea2ed55f71d142a8410a8a9b2","identity":"11947.4R24QqEYun.e85ce6f26b224c8da4dc6380faf4d4fc","tracks":[{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}],"revision":8,"state":"connected","media_warnings":[]},"participants":[{"sid":"PA3a2e9f421072bb867e26ba98ece916c1","identity":"98480.b3Rf3p3SiH.4fd638ccd66044efbf119fef3b2c1d7f","tracks":[{"kind":"data","priority":"standard","id":"e02dce33-2802-4b54-a531-6b063421405f","enabled":true,"sid":"MTfc9bf44172851a6040da20038cd9b557","name":"864d52c8-0f78-4016-873b-89bb26b81d1d","state":"ready"},{"kind":"video","priority":"standard","id":"8472e08e-4d54-4f5c-a697-b3218eae14aa","enabled":true,"sid":"MTa64622c72acacfed1ab22c460f98d651","name":"7660b20e7263e3be003034ad5bb5b965690a701fdc53f87998586c25f791f405","state":"ready"}],"revision":5,"state":"connected"},{"sid":"PA0c65ada01afaa9720b54c6e9be1b16fe","identity":"98482.MuQDxoMfsS.4fdb924f230c4779b4d6118466c0ab13","tracks":[{"kind":"audio","priority":"standard","id":"9f44fc1c-aff3-4425-8dd5-8e399e09a3b8","enabled":true,"sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b","name":"f04aebc6-4823-46e5-a627-3f389ea73b0c","state":"ready"},{"kind":"video","priority":"standard","id":"cd288fb0-0a2a-450e-b97d-5df25af9b618","enabled":true,"sid":"MT78d2018570593f4aedf73cd69e5626d2","name":"screen-share","state":"ready"},{"kind":"data","priority":"standard","id":"1d134bf0-22c9-441d-823a-40a0ceb7f3b3","enabled":true,"sid":"MT64985fcf76cb1d341d49732f01831f8c","name":"17970e26-3bd2-4554-9254-e45da6bedbb6","state":"ready"}],"revision":7,"state":"connected"},{"sid":"PA506c70358289b62f02e0d6c16aa1e242","identity":"98483.52Y9GDna6B.d3490043416e4b92be67d242c6127c4d","tracks":[{"kind":"data","priority":"standard","id":"c06bd21d-654e-4fc9-a4d8-e96cf9987bf9","enabled":true,"sid":"MTa16af53ddb36bba70df985ab01a64df5","name":"83682dab-661d-4b2e-910e-0becba4a8d43","state":"ready"},{"kind":"video","priority":"standard","id":"2fc7611e-5bb5-4bcf-907b-12f57dcc9bc8","enabled":true,"sid":"MTdf840a626eb959226bf6c08490856cad","name":"47be020895a7f51b59626a1b3d80abccd33c6c37b4052aca3e378e11c439967d","state":"ready"},{"kind":"audio","priority":"standard","id":"f0592c11-963a-4f5f-a0a6-cea1469dda33","enabled":false,"sid":"MT32a6f68565c0995ca385f3be25e82028","name":"1865515f-2f7a-4491-bac3-85c2df3f9bd5","state":"ready"}],"revision":5,"state":"connected"},{"sid":"PA0d1554bb42fdc4a1999323e3e573e4fb","identity":"98481.h3wxUZCXwN.2e46666c813f48b39ea63c102e61fad5","tracks":[{"kind":"audio","priority":"standard","id":"37c01816-561b-4b62-a588-380237c4d6d9","enabled":true,"sid":"MT14cf20e90f25a632fd4efe513b0185ad","name":"79688d85-8d1c-42e2-8d08-91195e09e224","state":"ready"},{"kind":"video","priority":"standard","id":"fa4fe6cb-ca2f-43e7-9d5b-f1e926248490","enabled":true,"sid":"MTaebae30fa0a4d474afd449446ec364c6","name":"d53e05a8d12106059520975cfb36c8d4112ce1dd351a564997ff72c9def7c6ca","state":"ready"},{"kind":"data","priority":"standard","id":"a2b3c370-efb8-4f92-bf8e-524cce7f29ca","enabled":true,"sid":"MTb0fa216d1e081cfc3ff5229cef7e3b58","name":"1c899fde-a074-4892-861b-fe1d4c3250f0","state":"ready"}],"revision":5,"state":"connected"},{"sid":"PAfa932eb86c35b1dac307a2a2586e5dbb","identity":"98370.8NZZZ2A3RR.953fc9bb73ea4252a95fad15e7852514","tracks":[{"kind":"data","priority":"standard","id":"de7023aa-c5e1-4666-80dd-c611aec12ae2","enabled":true,"sid":"MT03e22bc3282bdee2c4e9c0538b46c136","name":"81986c1b-a7af-4271-90ea-da2e9c7775f4","state":"ready"},{"kind":"audio","priority":"standard","id":"c40956f2-f2d7-4708-8047-05f33924544a","enabled":false,"sid":"MT37e06732df629c6ff4c3bf8cb164efe1","name":"699cd2e3-ed04-4f93-8c45-e0f386fccd42","state":"ready"},{"kind":"video","priority":"standard","id":"e5241dd6-5bbc-4a29-a7db-7c8d2da8d080","enabled":true,"sid":"MT37fca4e3b048b714cac5b34ac69019e7","name":"946c94adf439dcf3b5eb255a6fabdc3b53890c4151f9b3b2df846fc6694fecb0","state":"ready"}],"revision":6,"state":"connected"}],"recording":{"enabled":false,"revision":1,"is_recording":false},"subscribed":{"revision":12,"tracks":[{"id":"08a885f8-0a02-45da-a3ed-bde4ba06056d","sid":"MT37fca4e3b048b714cac5b34ac69019e7"},{"id":"140da135-f61f-47ed-a166-79a72e88ed9b","sid":"MTb0fa216d1e081cfc3ff5229cef7e3b58"},{"id":"21022d71-9508-4c55-bd44-dc3481154b9a","sid":"MTa64622c72acacfed1ab22c460f98d651"},{"id":"5ba20052-c2bc-4c47-86ac-5e9191eb4ecf","sid":"MTaebae30fa0a4d474afd449446ec364c6"},{"id":"776e4c39-be94-4ec8-9f66-36a0abb641ff","sid":"MT14cf20e90f25a632fd4efe513b0185ad"},{"id":"a3615990-1940-4b28-a1fe-67e5d3a7cb43","sid":"MT03e22bc3282bdee2c4e9c0538b46c136"},{"id":"aa271729-bee1-45e0-a75a-889116ad4e4a","sid":"MT32a6f68565c0995ca385f3be25e82028"},{"id":"ad4c03f1-3e82-4aa3-ae0c-e19d115ad735","sid":"MT64985fcf76cb1d341d49732f01831f8c"},{"id":"b92e0c9c-1cf2-4bc1-bc6a-eca03536d999","sid":"MTfc9bf44172851a6040da20038cd9b557"},{"id":"c63ef380-e51e-4963-a5e3-041d3c9deab4","sid":"MT78d2018570593f4aedf73cd69e5626d2"},{"id":"c70dd96e-7873-4de4-a747-060f893c2904","sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b"},{"id":"d1842a1e-f1a4-4221-aae2-d7a113885aea","sid":"MT37e06732df629c6ff4c3bf8cb164efe1"},{"id":"e25b1cd6-0228-43c2-bd5a-68b6d3f25ccd","sid":"MTdf840a626eb959226bf6c08490856cad"},{"id":"f7d33b21-36be-427d-a203-949120e6a832","sid":"MTa16af53ddb36bba70df985ab01a64df5"}]},"published":{"revision":8,"tracks":[{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}]}},"type":"msg"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:56.079Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:56.079Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:56.207Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:56.207Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:56.207Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:56.566Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"body":{"version":2,"type":"update","peer_connections":[{"id":"f73c1c48-ab28-4457-b43c-ba55f87c9d7c","description":{"type":"answer","sdp":"v=0\r\no=- 3931554398 3931554408 IN IP4 0.0.0.0\r\ns=VMb90211d5bf4eb44fe083f045b68a59c9\r\nc=IN IP4 0.0.0.0\r\nt=0 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\na=ice-lite\r\na=group:BUNDLE 0 1 2 audio0 video0 video1 audio1 audio2 audio3 video2 video3 video4\r\na=msid-semantic:WMS *\r\nm=audio 1 UDP/TLS/RTP/SAVPF 111 0\r\nc=IN IP4 0.0.0.0\r\na=setup:active\r\na=recvonly\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=mid:0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=rtpmap:111 opus/48000/2\r\na=rtpmap:0 PCMU/8000\r\na=rtcp-mux\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=ice-ufrag:eM62\r\na=ice-pwd:f3fcc86CEUhlOe5773f1GC\r\na=candidate:3 1 UDP 2013266429 18.180.220.243 16470 typ host\r\na=candidate:2 1 UDP 2013266430 18.180.220.243 14659 typ host\r\na=candidate:3 2 UDP 2013266428 18.180.220.243 15628 typ host\r\na=candidate:2 2 UDP 2013266429 18.180.220.243 19579 typ host\r\na=fingerprint:sha-256 20:20:16:32:F0:39:E8:B0:71:4F:BB:A6:14:22:F3:80:5A:2C:D7:6B:65:E6:87:E8:89:A0:17:DC:9D:05:AF:06\r\nm=video 1 UDP/TLS/RTP/SAVPF 96 106 116 118\r\nc=IN IP4 0.0.0.0\r\na=rtcp-rsize\r\na=setup:active\r\na=recvonly\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=mid:1\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=rtpmap:96 VP8/90000\r\na=rtpmap:106 H264/90000\r\na=rtpmap:116 red/90000\r\na=rtpmap:118 ulpfec/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtcp-fb:106 goog-remb\r\na=rtcp-fb:106 transport-cc\r\na=rtcp-fb:106 ccm fir\r\na=rtcp-fb:106 nack\r\na=rtcp-fb:106 nack pli\r\na=rtcp-mux\r\na=fmtp:106 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=ice-ufrag:eM62\r\na=ice-pwd:f3fcc86CEUhlOe5773f1GC\r\na=candidate:3 1 UDP 2013266429 18.180.220.243 16470 typ host\r\na=candidate:2 1 UDP 2013266430 18.180.220.243 14659 typ host\r\na=candidate:3 2 UDP 2013266428 18.180.220.243 15628 typ host\r\na=candidate:2 2 UDP 2013266429 18.180.220.243 19579 typ host\r\na=fingerprint:sha-256 20:20:16:32:F0:39:E8:B0:71:4F:BB:A6:14:22:F3:80:5A:2C:D7:6B:65:E6:87:E8:89:A0:17:DC:9D:05:AF:06\r\nm=application 1 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=setup:active\r\na=mid:2\r\na=sctp-port:5000\r\na=ice-ufrag:eM62\r\na=ice-pwd:f3fcc86CEUhlOe5773f1GC\r\na=candidate:3 1 UDP 2013266429 18.180.220.243 16470 typ host\r\na=candidate:2 1 UDP 2013266430 18.180.220.243 14659 typ host\r\na=candidate:3 2 UDP 2013266428 18.180.220.243 15628 typ host\r\na=candidate:2 2 UDP 2013266429 18.180.220.243 19579 typ host\r\na=fingerprint:sha-256 20:20:16:32:F0:39:E8:B0:71:4F:BB:A6:14:22:F3:80:5A:2C:D7:6B:65:E6:87:E8:89:A0:17:DC:9D:05:AF:06\r\nm=audio 1 UDP/TLS/RTP/SAVPF 111\r\nc=IN IP4 0.0.0.0\r\na=mid:audio0\r\na=setup:active\r\na=sendonly\r\na=msid:default 776e4c39-be94-4ec8-9f66-36a0abb641ff\r\na=ssrc:3018340075 cname:user2590382883@host-bb1d9203\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-mux\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=ice-ufrag:eM62\r\na=ice-pwd:f3fcc86CEUhlOe5773f1GC\r\na=candidate:3 1 UDP 2013266429 18.180.220.243 16470 typ host\r\na=candidate:2 1 UDP 2013266430 18.180.220.243 14659 typ host\r\na=candidate:3 2 UDP 2013266428 18.180.220.243 15628 typ host\r\na=candidate:2 2 UDP 2013266429 18.180.220.243 19579 typ host\r\na=fingerprint:sha-256 20:20:16:32:F0:39:E8:B0:71:4F:BB:A6:14:22:F3:80:5A:2C:D7:6B:65:E6:87:E8:89:A0:17:DC:9D:05:AF:06\r\nm=video 1 UDP/TLS/RTP/SAVPF 96 116 118\r\nc=IN IP4 0.0.0.0\r\na=mid:video0\r\na=rtcp-rsize\r\na=setup:active\r\na=sendrecv\r\na=msid:default 21022d71-9508-4c55-bd44-dc3481154b9a\r\na=ssrc:1786762282 cname:user2590382883@host-bb1d9203\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=rtpmap:96 VP8/90000\r\na=rtpmap:116 red/90000\r\na=rtpmap:118 ulpfec/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtcp-mux\r\na=ice-ufrag:eM62\r\na=ice-pwd:f3fcc86CEUhlOe5773f1GC\r\na=candidate:3 1 UDP 2013266429 18.180.220.243 16470 typ host\r\na=candidate:2 1 UDP 2013266430 18.180.220.243 14659 typ host\r\na=candidate:3 2 UDP 2013266428 18.180.220.243 15628 typ host\r\na=candidate:2 2 UDP 2013266429 18.180.220.243 19579 typ host\r\na=fingerprint:sha-256 20:20:16:32:F0:39:E8:B0:71:4F:BB:A6:14:22:F3:80:5A:2C:D7:6B:65:E6:87:E8:89:A0:17:DC:9D:05:AF:06\r\nm=video 1 UDP/TLS/RTP/SAVPF 96 116 118\r\nc=IN IP4 0.0.0.0\r\na=mid:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:57.232Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:58.256Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:58.599Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:58.783Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:31:59.280Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:00.304Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:00.440Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:01.364Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:02.375Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:02.892Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:03.394Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:04.420Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:05.241Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:05.440Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:06.310Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:06.310Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:06.359Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:06.359Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:06.875Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:06.876Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:07.895Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:08.585Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:08.585Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:08.910Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:09.930Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:10.042Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:10.945Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:10.976Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:11.985Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:12.997Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:14.011Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:14.850Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:14.976Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:15.041Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:16.054Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:16.432Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:16.433Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:16.528Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:16.528Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.068Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.816Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.816Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.828Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.829Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.829Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.829Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.829Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] intersectionObserver detected: On => Off
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.831Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.831Z debug [MediaSignaling #2:render_hints] Outgoing: 
+Third-party cookie will be blocked in future Chrome versions as part of Privacy Sandbox.
+Third-party cookie will be blocked in future Chrome versions as part of Privacy Sandbox.
+Third-party cookie will be blocked in future Chrome versions as part of Privacy Sandbox.
+Third-party cookie will be blocked in future Chrome versions as part of Privacy Sandbox.
+Third-party cookie will be blocked in future Chrome versions as part of Privacy Sandbox.
+Third-party cookie will be blocked in future Chrome versions as part of Privacy Sandbox.
+Third-party cookie will be blocked in future Chrome versions as part of Privacy Sandbox.
+Third-party cookie will be blocked in future Chrome versions as part of Privacy Sandbox.
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.941Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.971Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:17.971Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.010Z debug [RemoteVideoTrack #7: MTaebae30fa0a4d474afd449446ec364c6] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.010Z debug [RemoteVideoTrack #6: MTa64622c72acacfed1ab22c460f98d651] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.012Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.022Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"body":{"version":2,"type":"update","sid":"RMacdd42c65791cdc2fac0eb27406466e0","name":"RMacdd42c65791cdc2fac0eb27406466e0","participant":{"sid":"PA91ca6a4ea2ed55f71d142a8410a8a9b2","identity":"11947.4R24QqEYun.e85ce6f26b224c8da4dc6380faf4d4fc","tracks":[{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}],"revision":8,"state":"connected","media_warnings":[]},"participants":[{"sid":"PA0c65ada01afaa9720b54c6e9be1b16fe","identity":"98482.MuQDxoMfsS.4fdb924f230c4779b4d6118466c0ab13","tracks":[{"kind":"audio","priority":"standard","id":"9f44fc1c-aff3-4425-8dd5-8e399e09a3b8","enabled":false,"sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b","name":"f04aebc6-4823-46e5-a627-3f389ea73b0c","state":"ready"},{"kind":"video","priority":"standard","id":"cd288fb0-0a2a-450e-b97d-5df25af9b618","enabled":true,"sid":"MT78d2018570593f4aedf73cd69e5626d2","name":"screen-share","state":"ready"},{"kind":"data","priority":"standard","id":"1d134bf0-22c9-441d-823a-40a0ceb7f3b3","enabled":true,"sid":"MT64985fcf76cb1d341d49732f01831f8c","name":"17970e26-3bd2-4554-9254-e45da6bedbb6","state":"ready"}],"revision":8,"state":"connected"}],"recording":{"enabled":false,"revision":1,"is_recording":false},"subscribed":{"revision":12,"tracks":[{"id":"08a885f8-0a02-45da-a3ed-bde4ba06056d","sid":"MT37fca4e3b048b714cac5b34ac69019e7"},{"id":"140da135-f61f-47ed-a166-79a72e88ed9b","sid":"MTb0fa216d1e081cfc3ff5229cef7e3b58"},{"id":"21022d71-9508-4c55-bd44-dc3481154b9a","sid":"MTa64622c72acacfed1ab22c460f98d651"},{"id":"5ba20052-c2bc-4c47-86ac-5e9191eb4ecf","sid":"MTaebae30fa0a4d474afd449446ec364c6"},{"id":"776e4c39-be94-4ec8-9f66-36a0abb641ff","sid":"MT14cf20e90f25a632fd4efe513b0185ad"},{"id":"a3615990-1940-4b28-a1fe-67e5d3a7cb43","sid":"MT03e22bc3282bdee2c4e9c0538b46c136"},{"id":"aa271729-bee1-45e0-a75a-889116ad4e4a","sid":"MT32a6f68565c0995ca385f3be25e82028"},{"id":"ad4c03f1-3e82-4aa3-ae0c-e19d115ad735","sid":"MT64985fcf76cb1d341d49732f01831f8c"},{"id":"b92e0c9c-1cf2-4bc1-bc6a-eca03536d999","sid":"MTfc9bf44172851a6040da20038cd9b557"},{"id":"c63ef380-e51e-4963-a5e3-041d3c9deab4","sid":"MT78d2018570593f4aedf73cd69e5626d2"},{"id":"c70dd96e-7873-4de4-a747-060f893c2904","sid":"MTe5ab4a93e3dad6bfd956cd6d6d7f338b"},{"id":"d1842a1e-f1a4-4221-aae2-d7a113885aea","sid":"MT37e06732df629c6ff4c3bf8cb164efe1"},{"id":"e25b1cd6-0228-43c2-bd5a-68b6d3f25ccd","sid":"MTdf840a626eb959226bf6c08490856cad"},{"id":"f7d33b21-36be-427d-a203-949120e6a832","sid":"MTa16af53ddb36bba70df985ab01a64df5"}]},"published":{"revision":8,"tracks":[{"kind":"audio","priority":"standard","id":"45cec24d-ecdc-4df5-b8d1-a9a4c2e2b057","enabled":true,"sid":"MTc5cf2ee7e8fdffa52af64237b0e507fe","name":"62b1c48e-611e-4c20-8b93-ed47db712c51","state":"ready"},{"kind":"video","priority":"standard","id":"1c503e31-d931-45e8-bd1a-3e988718079f","enabled":true,"sid":"MT39d83795d1361aec030755121b34652d","name":"5bdbcf919728c7af4b7aa45ebe978ae2d7ba898017530324706c0f154338d420","state":"ready"},{"kind":"data","priority":"standard","id":"23c46be1-44c8-48e9-8861-de2cf40113a1","enabled":true,"sid":"MT41de8a6bdd47054dd2a3f49d3a00cf61","name":"38a8cb9f-4b15-4e3f-82af-9970f1bd02da","state":"ready"},{"kind":"video","priority":"standard","id":"e9957b10-fc8d-42ac-af6e-dd5c4a5d2b00","enabled":true,"sid":"MT59cc94fd417da61846bb42a8925427f7","name":"1a485933745cb229e97ad4860b852bddf9108d920adcb7b30c7dcb8bdeeaadbd","state":"ready"}]}},"type":"msg"}
+index.d6b3334a.js:19391 disable $ {kind: 'audio', name: 'f04aebc6-4823-46e5-a627-3f389ea73b0c', processedTrack: null, …} c70dd96e-7873-4de4-a747-060f893c2904
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.050Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.230Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.265Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.271Z debug [MediaSignaling #1:network_quality] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.288Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.333Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.365Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.390Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.397Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.397Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.432Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.457Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.457Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.458Z debug [RemoteVideoTrackPublication #4: MTaebae30fa0a4d474afd449446ec364c6] MTaebae30fa0a4d474afd449446ec364c6: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.458Z debug [RoomSignaling #0: PA91ca6a4ea2ed55f71d142a8410a8a9b2] received trackSwitch: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.458Z debug [RemoteVideoTrackPublication #2: MTa64622c72acacfed1ab22c460f98d651] MTa64622c72acacfed1ab22c460f98d651: ON => OFF
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.459Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.460Z debug [MediaSignaling #2:render_hints] Outgoing: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.474Z debug [MediaSignaling #2:render_hints] Incoming: 
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.488Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.532Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.555Z debug [RemoteVideoTrack #21: MT78d2018570593f4aedf73cd69e5626d2] updating render hint:
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:18.585Z info [connect #1] event
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:19.096Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:19.652Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+index.d6b3334a.js:19391 [Twilio Logger] 2024-08-02T02:32:19.687Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:32:20.734Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:32:21.751Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:32:22.768Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:32:23.185Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:32:23.790Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:32:24.462Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:32:24.842Z debug [MediaSignaling #1:network_quality] Incoming: 
+ Inactive expired: false
+ [Twilio Logger] 2024-08-02T02:32:25.855Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:32:26.525Z debug [LocalVideoTrack #11: 8dc1d427-6000-451d-9a8e-d7f33858f6bc] VideoProcessor:stats
+ [Twilio Logger] 2024-08-02T02:32:26.526Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:32:26.668Z debug [LocalVideoTrack #4: 3304838c-716f-4fe6-bb56-59ea596e267b] VideoProcessor:stats
+ [Twilio Logger] 2024-08-02T02:32:26.668Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:32:26.874Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:32:27.177Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:32:27.902Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:32:28.585Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:32:28.585Z info [connect #1] event
+ [Twilio Logger] 2024-08-02T02:32:28.915Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:32:29.266Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Outgoing: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:32:29.929Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:32:30.948Z debug [MediaSignaling #1:network_quality] Incoming: 
+ [Twilio Logger] 2024-08-02T02:32:31.276Z debug [TwilioConnection #1: wss://global.vss.twilio.com/signaling] Incoming: {"type":"heartbeat"}
+ [Twilio Logger] 2024-08-02T02:32:31.991Z debug [MediaSignaling #1:network_quality] Incoming: 

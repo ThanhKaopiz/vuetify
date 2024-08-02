@@ -1,12 +1,15 @@
 <template>
   <div class="main-content">
-    <Minus class="zoom-button" @click="handleClick"></Minus>
     <div class="inner-content">
-      <ChatBox ref="_refChatBox" class="box-chat" v-show="showChat"></ChatBox>
-      <video v-show="streamId===1" src="@/assets/1.mp4" controls
+      <ChatBox ref="_refChatBox" class="item-content" :class="{'chat':showChat}"></ChatBox>
+
+      <video class="video-1 item-content" :class="{'video':streamId===1}" src="@/assets/1.mp4"
+             controls
              autoplay playsinline></video>
-      <video v-show="streamId===2" src="@/assets/2.mp4" controls
+      <video class="video-2 item-content" :class="{'video':streamId===2 }" src="@/assets/2.mp4"
+             controls
              autoplay playsinline></video>
+
     </div>
   </div>
 </template>
@@ -20,11 +23,6 @@ watch(() => props.showChat, () => {
   _refChatBox.value.scrollToEnd();
 })
 
-
-const handleClick = () => {
-  emits('handleClick')
-
-}
 
 </script>
 <style lang="scss" scoped>
@@ -40,18 +38,48 @@ const handleClick = () => {
   justify-content: space-between;
   transition: height 0.3s ease 0s;
 
-  .zoom-button {
-    z-index: 1000;
-    position: absolute;
-    top: 0;
-    right: 0;
-    cursor: pointer;
-  }
 
   .inner-content {
     background-color: #F2F4F6;
     height: 100%;
     padding: 10px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    .item-content {
+      visibility: hidden;
+      position: absolute;
+      opacity: 1;
+      left: -500px;
+      bottom: -500px;
+      transition: all 0.5s ease-in-out;
+
+      &.video {
+        visibility: visible;
+        left: 10px !important;
+        opacity: 1;
+        bottom: 10px;
+        height: calc(100% - 20px);
+        width: calc(100% - 20px);
+
+      }
+
+      &.chat {
+        visibility: visible;
+
+        left: 10px !important;
+        opacity: 1;
+        bottom: 10px;
+        height: calc(100% - 20px);
+        width: calc(100% - 20px);
+      }
+    }
+
+
   }
 }
 

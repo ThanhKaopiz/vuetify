@@ -6,18 +6,15 @@
           <MainFrame @handle-click="handleCollapse" :stream-id="streamId" :show-chat="showChat"/>
         </div>
         <div class="bottom-bar" :class="{'expand':showMain}">
-          <div :class="{'selected':streamId===1}" class="box" @click="openVideo(1)"><img alt=""
-                                                                                         src="@/assets/avatar.png">
+          <div :class="{'selected':streamId===1}" class="box test" @click="openVideo(1)"><img alt=""
+                                                                                              src="@/assets/avatar.png">
           </div>
-          <div :class="{'selected':streamId===2}" class="box" @click="openVideo(2)"><img alt="" src="@/assets/avt.jpeg">
+          <div :class="{'selected':streamId===2}" class="box test" @click="openVideo(2)"><img alt=""
+                                                                                              src="@/assets/avt.jpeg">
           </div>
 
-          <div @click="handleChat" class="item" :class="{'hidden-text':isHidden,'selected':showChat}"
-               v-show="showMain">
-            <Chat/>
-          </div>
           <div class="box action" :class="{'hidden-box':isHidden, 'box-main':showMain}">
-            <div @click="handleChat" class="item" :class="{'hidden-text':isHidden}" v-show="!showMain">
+            <div @click="handleChat" class="item" :class="{'hidden-text':isHidden}">
               <Chat/>
             </div>
             <div class="item" :class="{'hidden-text':isHidden}">
@@ -30,7 +27,7 @@
               <Leave/>
             </div>
           </div>
-          <div class="box" @click="handleToggleExpand" v-show="!showMain">
+          <div class="box" @click="handleToggleExpand">
             <Minus v-show="!isHidden"/>
             <Plus v-show="isHidden"/>
           </div>
@@ -52,18 +49,34 @@ const cameraStatus = ref(true)
 const micStatus = ref(true)
 
 const openVideo = (number: number) => {
-  streamId.value = number
-  showMain.value = true
-  showChat.value = false
-  isHidden.value = false
+  console.log(number)
+  console.log(streamId.value)
+  if (streamId.value === number) {
+    showMain.value = false
+    streamId.value = 0
+    showChat.value = false
+  } else {
+
+    isHidden.value = false
+
+    setTimeout(() => {
+      showChat.value = false
+      streamId.value = number
+      showMain.value = true
+    }, 0)
+  }
 
 
 }
 const handleCollapse = () => {
+  showChat.value = false
   showMain.value = false
   streamId.value = 0
-  showChat.value = false
-  isHidden.value = false
+
+  setTimeout(() => {
+    isHidden.value = false
+  }, 0)
+
 }
 
 const toggleMic = () => {
@@ -77,8 +90,20 @@ const widthBoxAction = computed(() => {
   return document.getElementsByClassName('item')?.length === 2 ? '150px' : '200px';
 })
 
+const widthButtonBar = computed(() => {
+  return isHidden.value ? '150px' : '370px'
+})
+
 const handleToggleExpand = () => {
   isHidden.value = !isHidden.value
+
+  setTimeout(() => {
+
+    showMain.value = false
+    streamId.value = 0
+    showChat.value = false
+  }, 0)
+
 }
 
 const handleChat = () => {
@@ -99,13 +124,14 @@ const handleChat = () => {
 
 
 .container {
+  margin: 100px;
   position: absolute;
   //bottom: 200px;
   //right: 200px;
   //position: relative;
   height: 600px;
   width: 370px;
-  overflow: hidden;
+  //overflow: hidden;
 }
 
 .inner-container {
@@ -119,13 +145,13 @@ const handleChat = () => {
 .main-box {
   height: 100%;
   width: 100%;
-  transition: all 0.8s cubic-bezier(0.05, 0.7, 0.1, 1.0);
+  transition: all 0.5s cubic-bezier(0.05, 0.7, 0.1, 1.0);
   position: absolute;
   bottom: 0; //+50px height box
   left: 0;
 
   &.hidden-main {
-    width: 350px;
+    width: v-bind(widthButtonBar);
     visibility: hidden;
     opacity: 0;
     height: 0;
@@ -142,7 +168,7 @@ const handleChat = () => {
   justify-content: flex-start;
   //transition: width 0.3s ease;
   background-color: #F2F4F6;
-  transition: all 0.3s ease;
+  transition: all 0.5s cubic-bezier(0.05, 0.7, 0.1, 1.0);
 
   .selected {
     border: 1px solid deepskyblue;
@@ -156,7 +182,6 @@ const handleChat = () => {
     cursor: pointer;
     background-color: white;
     color: white;
-    transition: width 0.5s ease;
 
     &.action {
       display: flex;
@@ -165,12 +190,12 @@ const handleChat = () => {
       //flex: 0 0 calc(50px * 3);
       min-width: v-bind(widthBoxAction);
       height: 100%;
-      transition: all 0.3s ease-in-out;
+      transition: all 0.5s cubic-bezier(0.05, 0.7, 0.1, 1.0);
       background-color: #F2F4F6;
 
       .item {
         width: 50px;
-        transition: all 0.3s ease-in-out;
+        transition: all 0.5s cubic-bezier(0.05, 0.7, 0.1, 1.0);
       }
 
 
@@ -196,7 +221,7 @@ const handleChat = () => {
     height: 60px;
     padding: 10px;
     justify-content: space-between;
-    //transition: all 1s ease-in-out;
+    //transition: all 0.5s ease-in-out;
   }
 
 }

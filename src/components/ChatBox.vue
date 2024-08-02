@@ -1,5 +1,5 @@
 <template>
-  <div class="box-chat-container flex-column justify-space-between h-100">
+  <div class="box-chat-container flex-column justify-space-between ">
     <v-virtual-scroll id="style-2" class="box-chat-detail " height="300px" :items="chatMessage">
 
       <template v-slot:default="{item,index}">
@@ -91,7 +91,7 @@ const scrollToEnd = () => {
   setTimeout(() => {
     console.log('111')
     document.getElementById(`chat-${chatMessage.value.length - 1}`)?.scrollIntoView({behavior: "smooth"});
-  }, 200)
+  }, 500)
 }
 
 const onClick = () => {
