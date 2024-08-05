@@ -12,6 +12,7 @@ declare module 'vue' {
     Chat: typeof import('./components/Button/Chat.vue')['default']
     ChatBox: typeof import('./components/ChatBox.vue')['default']
     Common: typeof import('./components/Button/Common.vue')['default']
+    Fill: typeof import('./components/Icon/Fill.vue')['default']
     Fly: typeof import('./components/Icon/Fly.vue')['default']
     HelloWorld: typeof import('./components/HelloWorld.vue')['default']
     Leave: typeof import('./components/Button/Leave.vue')['default']

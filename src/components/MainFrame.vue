@@ -1,12 +1,12 @@
 <template>
   <div class="main-content">
-    <Minus class="zoom-button" @click="handleClick"></Minus>
     <div class="inner-content">
-      <ChatBox ref="_refChatBox" class="box-chat" v-show="showChat"></ChatBox>
-      <video v-show="streamId===1" src="@/assets/1.mp4" controls
+      <video class="item-box" :class="{'item-hidden':streamId !==1}" src="@/assets/1.mp4" controls
              autoplay playsinline></video>
-      <video v-show="streamId===2" src="@/assets/2.mp4" controls
-             autoplay playsinline></video>
+      <ChatBox ref="_refChatBox" class="box-chat" :class="{'box-chat-hidden':!showChat}"></ChatBox>
+
+      <!--      <video class="item-box" :class="{'item-hidden':streamId !==2}" src="@/assets/2.mp4" controls-->
+      <!--             autoplay playsinline></video>-->
     </div>
   </div>
 </template>
@@ -20,11 +20,6 @@ watch(() => props.showChat, () => {
   _refChatBox.value.scrollToEnd();
 })
 
-
-const handleClick = () => {
-  emits('handleClick')
-
-}
 
 </script>
 <style lang="scss" scoped>
@@ -52,13 +47,51 @@ const handleClick = () => {
     background-color: #F2F4F6;
     height: 100%;
     padding: 10px;
+    position: relative;
+    //overflow: hidden;
+
+
+    .item-box {
+      opacity: 1;
+      transition: opacity 1s ease-out;
+      width: 100%;
+      height: 100%;
+
+      video {
+        width: calc(100% - 10px);
+        height: calc(100% - 10px);
+      }
+
+      &.item-hidden {
+        opacity: 0;
+        //visibility: hidden;
+        //height: 0;
+
+      }
+
+
+    }
   }
 }
 
-video {
-  width: 100%;
-  height: 100%;
-  aspect-ratio: auto;
+.box-chat {
+  position: absolute;
+  top: 0;
+  z-index: 100;
+  width: calc(100% - 10px);
+  transition: all 0.5s ease;
+  height: calc(100% - 10px) !important;
+}
+
+.box-chat-hidden {
+  height: 0 !important;
+  opacity: 0;
+  top: 600px;
+  overflow: hidden;
+  visibility: hidden;
+  transition: all 0.5s ease-out;
+
+  //opacity: 0;
 }
 
 

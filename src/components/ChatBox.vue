@@ -88,10 +88,10 @@ const chatMessage = ref([
 ])
 
 const scrollToEnd = () => {
-  setTimeout(() => {
-    console.log('111')
-    document.getElementById(`chat-${chatMessage.value.length - 1}`)?.scrollIntoView({behavior: "smooth"});
-  }, 200)
+  // setTimeout(() => {
+  //   console.log('111')
+  //   document.getElementById(`chat-${chatMessage.value.length - 1}`)?.scrollIntoView({behavior: "smooth"});
+  // }, 200)
 }
 
 const onClick = () => {
@@ -101,7 +101,7 @@ const onClick = () => {
     message: message.value
   })
   message.value = undefined
-  scrollToEnd()
+  // scrollToEnd()
 }
 
 defineExpose({
@@ -113,6 +113,7 @@ defineExpose({
 <style lang="scss">
 .box-chat-container {
   display: flex;
+  background-color: #FFFFFF;
 
   .avatar {
     width: 30px;
@@ -127,7 +128,7 @@ defineExpose({
 }
 
 #style-2::-webkit-scrollbar {
-  width: 12px;
+  width: 5px;
   background-color: #F5F5F5;
 }
 
